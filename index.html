@@ -1,56 +1,87 @@
-<doctype html>
+<!doctype html>
 <html>
     <head>
         <meta charset="utf8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
         <title>Twitch Plays Pokemon - Live Updates</title>
         <link rel="stylesheet" href="/css/bootstrap.min.css">
         <link rel="stylesheet" href="/css/styles.css">
+        <script src="/js/knockout.js"></script>
     </head>
     <body>
         <div class="container">
             <div class="page-header">
-                <h1>Twitch Plays Pokemon <small>Live Updates</small></h1>
+                <h1>Twitch Plays Pokemon <small>Live Updates &mdash; <a href="/stream">Watch Live!</a></small></h1>
             </div>
-            <div class="row clearfix">
-                <div class="col-md-8">
-                    <img src="/750x450.gif" />
-                    <!--<object type="application/x-shockwave-flash" height="450" width="750"
-                        id="live_embed_player_flash" data="http://www.twitch.tv/widgets/live_embed_player.swf?channel=twitchplayspokemon"
-                        bgcolor="#000000"><param name="allowFullScreen" value="true" />
-                        <param name="allowScriptAccess" value="always" />
-                        <param name="allowNetworking" value="all" />
-                        <param name="movie" value="http://www.twitch.tv/widgets/live_embed_player.swf" />
-                        <param name="flashvars" value="hostname=www.twitch.tv&channel=twitchplayspokemon&auto_play=true&start_volume=25" />
-                    </object>-->
-                </div>
-                <div class="col-md-4">
-                    <div class="filter">
-                        <strong>Filter by:</strong>
-                        <a href="#" data-filter="Travel" class="label label-primary">Travel</a>
-                        <a href="#" data-filter="Roster" class="label label-warning">Roster</a>
-                        <a href="#" data-filter="Inventory" class="label label-success">Inventory</a>
-                        <a href="#" data-filter="Battle" class="label label-danger">Battle</a>
-                        <a href="#" data-filter="Meta" class="label label-info">Meta</a>
+            <h3 class="goal">Current Goal: <span data-bind="text: goal"></span></h3>
+            <p>Live updates for <a href="http://twitch.tv/twitchplayspokemon">Twitch Plays Pokemon</a>, a live stream controlled by the masses by means of
+            Twitch chat. The "commentary" tag shows live commentary for the game, and the other tags show major events. If you've been away for a while, try
+            turning off "commentary" to get an idea of what you missed. Feedback? <a href="http://redd.it/1yolr5" target="_blank">Share it here</a>. Did you know
+            that this site is <a href="https://github.com/SirCmpwn/TPP-Updates">open source</a>?</p>
+            <div class="row">
+                <div class="col-md-4 col-md-push-8">
+                    <h3>Inventory <small data-bind="text: '$' + balance()"></small></h3>
+                    <div class="badges" data-bind="foreach: badges">
+                        <img width=30 height=30 data-bind="attr: { src: '/images/' + $data + 'badge.png' }" />
                     </div>
-                    <div class="sidebar" data-bind="foreach: recentUpdates">
-                        <div class="update">
-                            <h3 data-bind="text: title"></h3>
-                            <p><span class="label label-primary" data-bind="text: category"></span><span> @ 3d 4h 3m 25s (1 hour ago)</span></p>
+                    <div class="row" data-bind="foreach: inventory">
+                        <div class="col-md-6">
+                            <span data-bind="text: count"></span>
+                            <span data-bind="text: name"></span>
+                        </div>
+                    </div>
+                    <h3>Party</h3>
+                    <div class="row" data-bind="foreach: party">
+                        <div class="col-md-12 pokemon">
+                            <h4><span data-bind="text: species"></span>, "<span data-bind="text: nickname"></span>" <small>Lvl </small><small data-bind="text: level"></small></h4>
+                            <div class="row" data-bind="foreach: moves">
+                                <div class="col-md-6" data-bind="text: $data"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <p>Website made with love by <a href="https://twitter.com/sircmpwn">@sircmpwn</a>.</p>
+                </div>
+                <div class="col-md-8 col-md-pull-4">
+                    <h3>Live Updates</h3>
+                    <div class="filter">
+                        <strong>Click to toggle:</strong>
+                        <span data-bind="foreach: filter_options">
+                            <a href="#" data-bind="text: $data, attr: { 'data-category': $data }, click: $parent.updateFilter" class="label"></a>
+                        </span>
+                    </div>
+                    <hr />
+                    <div class="sidebar" data-bind="foreach: filtered">
+                        <div class="update" data-bind="attr: { 'data-category': category }">
+                            <div class="title">
+                                <img data-bind="attr: { src: '/images/' + mode + '.png', title: 'This update was in ' + mode + ' mode.' }" class="pull-left" width=24 height=24 style="margin-right: 3px;" />
+                                <span data-bind="html: title"></span>
+                            </div>
+                            <p data-bind="visible: description, html: description"></p>
+                            <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time), attr: { title: time }"></span> <span data-bind="visible: updater">&mdash;</span> <span data-bind="text: updater"></span></span></p>
                         </div>
                         <hr />
                     </div>
                 </div>
             </div>
-            <h2>Older Updates</h2>
-            <div class="row" data-bind="foreach: oldUpdates">
-                <div class="update col-md-4">
-                    <h3 data-bind="text: title"></h3>
-                    <p><span class="label label-primary" data-bind="text: category"></span><span> @ 3d 4h 3m 25s (1 hour ago)</span></p>
-                </div>
-            </div>
         </div>
-        <script src="/js/bootstrap.min.js"></script>
-        <script src="/js/knockout.js"></script>
-        <script src="/js/index.js"></script>
+        <script src="/js/index.js?1"></script>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-48307517-1', 'aninext.tv');
+            ga('send', 'pageview');
+        </script>
+        <script id="stream" type="text/x-template">
+            <object type="application/x-shockwave-flash" height="450" width="750"
+                data="http://www.twitch.tv/widgets/live_embed_player.swf?channel=twitchplayspokemon"
+                bgcolor="#000000"><param name="allowFullScreen" value="true" />
+                <param name="allowScriptAccess" value="always" />
+                <param name="allowNetworking" value="all" />
+                <param name="movie" value="http://www.twitch.tv/widgets/live_embed_player.swf" />
+                <param name="flashvars" value="hostname=www.twitch.tv&channel=twitchplayspokemon&auto_play=true&start_volume=25" />
+            </object>
+        </script>
     </body>
 </html>

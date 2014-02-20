@@ -1,26 +1,9 @@
-.container {
-    position: relative;
+.row {
+  max-width: 100%;
 }
 
 .update {
     position: relative;
-}
-
-.update h3 {
-    font-size: 11pt;
-    font-weight: bold;
-}
-
-.sidebar .update .only-first {
-    display: none;
-}
-
-.sidebar .update:first-child .only-first {
-    display: block;
-}
-
-.sidebar .update:first-child h3 {
-    font-size: 18pt;
 }
 
 .links {
@@ -76,7 +59,9 @@
 }
 
 .time {
-    margin-left: 290px;
+    position: absolute;
+    left: 297px;
+    top: 40px;
 }
 
 .switch {
@@ -90,4 +75,8 @@
 .title {
     margin-top: 5px;
     font-size: 14pt;
+}
+
+h4.navbar-text {
+  color: #999 !important;
 }
