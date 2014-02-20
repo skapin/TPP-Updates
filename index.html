@@ -1,0 +1,56 @@
+<doctype html>
+<html>
+    <head>
+        <meta charset="utf8" />
+        <title>Twitch Plays Pokemon - Live Updates</title>
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/css/styles.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="page-header">
+                <h1>Twitch Plays Pokemon <small>Live Updates</small></h1>
+            </div>
+            <div class="row clearfix">
+                <div class="col-md-8">
+                    <img src="/750x450.gif" />
+                    <!--<object type="application/x-shockwave-flash" height="450" width="750"
+                        id="live_embed_player_flash" data="http://www.twitch.tv/widgets/live_embed_player.swf?channel=twitchplayspokemon"
+                        bgcolor="#000000"><param name="allowFullScreen" value="true" />
+                        <param name="allowScriptAccess" value="always" />
+                        <param name="allowNetworking" value="all" />
+                        <param name="movie" value="http://www.twitch.tv/widgets/live_embed_player.swf" />
+                        <param name="flashvars" value="hostname=www.twitch.tv&channel=twitchplayspokemon&auto_play=true&start_volume=25" />
+                    </object>-->
+                </div>
+                <div class="col-md-4">
+                    <div class="filter">
+                        <strong>Filter by:</strong>
+                        <a href="#" data-filter="Travel" class="label label-primary">Travel</a>
+                        <a href="#" data-filter="Roster" class="label label-warning">Roster</a>
+                        <a href="#" data-filter="Inventory" class="label label-success">Inventory</a>
+                        <a href="#" data-filter="Battle" class="label label-danger">Battle</a>
+                        <a href="#" data-filter="Meta" class="label label-info">Meta</a>
+                    </div>
+                    <div class="sidebar" data-bind="foreach: recentUpdates">
+                        <div class="update">
+                            <h3 data-bind="text: title"></h3>
+                            <p><span class="label label-primary" data-bind="text: category"></span><span> @ 3d 4h 3m 25s (1 hour ago)</span></p>
+                        </div>
+                        <hr />
+                    </div>
+                </div>
+            </div>
+            <h2>Older Updates</h2>
+            <div class="row" data-bind="foreach: oldUpdates">
+                <div class="update col-md-4">
+                    <h3 data-bind="text: title"></h3>
+                    <p><span class="label label-primary" data-bind="text: category"></span><span> @ 3d 4h 3m 25s (1 hour ago)</span></p>
+                </div>
+            </div>
+        </div>
+        <script src="/js/bootstrap.min.js"></script>
+        <script src="/js/knockout.js"></script>
+        <script src="/js/index.js"></script>
+    </body>
+</html>

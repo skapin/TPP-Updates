@@ -1,0 +1,16 @@
+.update {
+    position: relative;
+}
+
+.update h3 {
+    font-size: 11pt;
+    font-weight: bold;
+}
+
+.sidebar .update:first-child h3 {
+    font-size: 18pt;
+}
+
+.links {
+    font-size: 18pt;
+}
