@@ -11,6 +11,7 @@
             <div class="page-header">
                 <h1>Twitch Plays Pokemon <small>Live Updates</small></h1>
             </div>
+            <h3>Current Goal: <span data-bind="text: goal"></span></h3>
             <div class="row clearfix">
                 <div class="col-md-8">
                     <img src="/750x450.gif" />
@@ -35,17 +36,44 @@
                     <div class="sidebar" data-bind="foreach: recentUpdates">
                         <div class="update">
                             <h3 data-bind="text: title"></h3>
-                            <p><span class="label label-primary" data-bind="text: category"></span><span> @ 3d 4h 3m 25s (1 hour ago)</span></p>
+                            <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ 3d 4h 3m 25s (1 hour ago)</span></p>
                         </div>
                         <hr />
                     </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4" style="position: relative;">
+                    <span style="position: absolute; top: 25px; right: 20px;" class="pull-right" data-bind="text: '$' + balance()"></span>
+                    <h3>Inventory</h3>
+                    <table class="table">
+                        <tbody data-bind="foreach: inventory">
+                            <tr><td data-bind="text: $data"></td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="col-md-4">
+                    <h3>Party</h3>
+                    <table class="table">
+                        <tbody data-bind="foreach: party">
+                            <tr>
+                                <td>Level <span data-bind="text: level"></span></td>
+                                <td data-bind="text: species"></td>
+                                <td>"<span data-bind="text: name"></span>"</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="col-md-4">
+                    <h3>I don't know what to put here</h3>
+                    <p>But there's plenty of space</p>
                 </div>
             </div>
             <h2>Older Updates</h2>
             <div class="row" data-bind="foreach: oldUpdates">
                 <div class="update col-md-4">
                     <h3 data-bind="text: title"></h3>
-                    <p><span class="label label-primary" data-bind="text: category"></span><span> @ 3d 4h 3m 25s (1 hour ago)</span></p>
+                    <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ 3d 4h 3m 25s (1 hour ago)</span></p>
                 </div>
             </div>
         </div>

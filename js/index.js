@@ -1,13 +1,17 @@
-var tpp_start_time = 1392254634220;
-var update_interval = 3000;
+var tpp_start_time = 1392254573;
+var update_interval = 10000;
 var api_version = 1;
 
 function ViewModel() {
     var self = this;
 
-    self.filter = ko.observable(['Travel', 'Roster', 'Inventory', 'Battles', 'Meta']);
+    self.filter = ko.observable(['Travel', 'Roster', 'Inventory', 'Battle', 'Meta']);
     self.error = ko.observable(null);
     self.updates = ko.observableArray();
+    self.inventory = ko.observableArray();
+    self.balance = ko.observable(0);
+    self.party = ko.observableArray();
+    self.goal = ko.observable();
 
     self.filtered = ko.computed(function() {
         var result = [];
@@ -38,6 +42,10 @@ function ViewModel() {
                     window.location = window.location;
                 }
                 self.updates(json.updates);
+                self.inventory(json.inventory);
+                self.balance(json.balance);
+                self.party(json.party);
+                self.goal(json.goal);
             } catch (e) {
                 self.error("Error getting latest news.");
             }

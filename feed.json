@@ -1,10 +1,104 @@
 {
     "version": 1,
+    "goal": "Reach top of Lavender Tower",
+    "balance": 1644,
+    "inventory": [
+        "Helix Fossil",
+        "Sliph Scope",
+        "HM01 Cut",
+        "S.S. Ticket",
+        "Lift Key"
+    ],
+    "party": [
+        {
+            "species": "Oddish",
+            "name": "x(araggbaj",
+            "nickname": "Seed of Hope",
+            "level": 22,
+            "moves": [
+                "Cut",
+                "Poison Powder",
+                "Stun Spore",
+                "Sleep Powder"
+            ]
+        },
+        {
+            "species": "Raticate",
+            "name": "AAJST(????",
+            "nickname": "Digrat",
+            "level": 25,
+            "moves": [
+                "Dig",
+                "Body Slam",
+                "Quick Attack",
+                "Swift"
+            ]
+        },
+        {
+            "species": "Farfetch'd",
+            "name": "Dux",
+            "nickname": "Slayer of Trees",
+            "level": 23,
+            "moves": [
+                "Cut",
+                "Sand Attack",
+                "Leer",
+                "Fury Attack"
+            ]
+        },
+        {
+            "species": "Pidgeot",
+            "name": "aaabaaajss",
+            "nickname": "Bird Jesus",
+            "level": 48,
+            "moves": [
+                "Gust",
+                "Quick Attack",
+                "Sand Attack",
+                "Whirlwind"
+            ]
+        },
+        {
+            "species": "Drowzee",
+            "name": "Drowzee",
+            "nickname": "The Keeper",
+            "level": 24,
+            "moves": [
+                "Pound",
+                "Headbutt",
+                "Disable",
+                "Confusion"
+            ]
+        },
+        {
+            "species": "Ghastly",
+            "name": "Ghastly",
+            "nickname": "Rick Ghastly",
+            "level": 20,
+            "moves": [
+                "Lick",
+                "Confuse Ray",
+                "Night Shade"
+            ]
+        }
+    ],
     "updates": [
         {
             "id": 1,
+            "category": "Battle",
+            "title": "Test A",
+            "time": 1392879603741
+        },
+        {
+            "id": 1,
             "category": "Roster",
-            "title": "Did another thing",
+            "title": "Test B",
+            "time": 1392879603741
+        },
+        {
+            "id": 1,
+            "category": "Inventory",
+            "title": "Test C",
             "time": 1392879603741
         },
         {
