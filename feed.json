@@ -121,6 +121,18 @@
   ],
   "updates": [
     {
+      "time": 1392965413,
+      "title": "New Fly strat",
+      "category": "Commentary",
+      "description": "Try to get Fly, we will win if we have it"
+    },
+    {
+      "time": 1392965151,
+      "title": "Red vs Fisherman, Red wins",
+      "category": "Battle",
+      "description": "This was one hell of a battle"
+    },
+    {
       "time": 1392879603,
       "title": "Red vs Gambler, Red wins",
       "category": "Battle",
@@ -173,12 +185,6 @@
       "title": "Cabbage evolves to Gloom",
       "category": "Roster",
       "description": null
-    },
-    {
-      "time": 1392965151,
-      "title": "Red vs Fisherman, Red wins",
-      "category": "Battle",
-      "description": "This was one hell of a battle"
     }
   ]
 }
