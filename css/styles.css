@@ -1,3 +1,7 @@
+.container {
+    position: relative;
+}
+
 .update {
     position: relative;
 }
@@ -5,6 +9,14 @@
 .update h3 {
     font-size: 11pt;
     font-weight: bold;
+}
+
+.sidebar .update .only-first {
+    display: none;
+}
+
+.sidebar .update:first-child .only-first {
+    display: block;
 }
 
 .sidebar .update:first-child h3 {
@@ -27,7 +39,7 @@
     background-color: rgb(240, 173, 78);
 }
 
-.label[data-category="Inventory"] {
+.label[data-category="Items"] {
     background-color: rgb(92, 184, 92);
 }
 
@@ -35,6 +47,23 @@
     background-color: rgb(91, 192, 222);
 }
 
+.label[data-category="Commentary"] {
+    background-color: #8A2BE2;
+}
+
 .label.disabled {
     background-color: #444;
+}
+
+.badges {
+    position: absolute;
+    top: 65px;
+    right: 20px;
+}
+
+@media (max-width: 1188px) {
+    object {
+        width: 600px;
+        height: 300px;
+    }
 }

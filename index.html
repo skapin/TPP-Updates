@@ -8,12 +8,15 @@
     </head>
     <body>
         <div class="container">
+            <div class="badges" data-bind="foreach: badges">
+                <img width=30 height=30 data-bind="attr: { src: '/images/' + $data + 'badge.png' }" />
+            </div>
             <div class="page-header">
                 <h1>Twitch Plays Pokemon <small>Live Updates</small></h1>
             </div>
             <div class="row clearfix">
-                <h3>Current Goal: <span data-bind="text: goal"></span></h3>
                 <div class="col-md-8">
+                    <h3>Current Goal: <span data-bind="text: goal"></span></h3>
                     <object type="application/x-shockwave-flash" height="450" width="750"
                         id="live_embed_player_flash" data="http://www.twitch.tv/widgets/live_embed_player.swf?channel=twitchplayspokemon"
                         bgcolor="#000000"><param name="allowFullScreen" value="true" />
@@ -33,7 +36,8 @@
                     <div class="sidebar" data-bind="foreach: recentUpdates">
                         <div class="update">
                             <h3 data-bind="text: title"></h3>
-                            <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ 3d 4h 3m 25s (1 hour ago)</span></p>
+                            <p class="only-first" data-bind="visible: description, text: description"></p>
+                            <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time)"></span></span></p>
                         </div>
                         <hr />
                     </div>
@@ -45,14 +49,17 @@
                     <h3>Inventory</h3>
                     <table class="table">
                         <tbody data-bind="foreach: inventory">
-                            <tr><td data-bind="text: $data"></td></tr>
+                            <tr>
+                                <td data-bind="text: count"></td>
+                                <td data-bind="text: name"></td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
                 <div class="col-md-8">
                     <h3>Party</h3>
                     <div class="row" data-bind="foreach: party">
-                        <div class="col-md-6">
+                        <div class="col-md-6 pokemon">
                             <h4><span data-bind="text: species"></span>, "<span data-bind="text: nickname"></span>" <small>Lvl </small><small data-bind="text: level"></small></h4>
                             <div class="row" data-bind="foreach: moves">
                                 <div class="col-md-6" data-bind="text: $data"></div>
@@ -65,11 +72,11 @@
             <div class="row" data-bind="foreach: oldUpdates">
                 <div class="update col-md-4">
                     <h3 data-bind="text: title"></h3>
+                    <p data-bind="visible: description, text: description"></p>
                     <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ 3d 4h 3m 25s (1 hour ago)</span></p>
                 </div>
             </div>
         </div>
-        <script src="/js/bootstrap.min.js"></script>
         <script src="/js/knockout.js"></script>
         <script src="/js/index.js"></script>
     </body>

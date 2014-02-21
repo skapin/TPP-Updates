@@ -1,20 +1,30 @@
 {
     "version": 1,
-    "goal": "Reach top of Lavender Tower",
-    "balance": 1644,
+    "goal": "Reach Fuschia City via Route 12, 13, 14",
+    "balance": 2687,
     "inventory": [
-        "Helix Fossil",
-        "Sliph Scope",
-        "HM01 Cut",
-        "S.S. Ticket",
-        "Lift Key"
+        { "name": "Helix Fossil", "count": 1 },
+        { "name": "Sliph Scope", "count": 1 },
+        { "name": "Lift Key", "count": 1 },
+        { "name": "S.S. Ticket", "count": 1 },
+        { "name": "HM01 Cut", "count": 1 },
+        { "name": "Super Rod", "count": 1 },
+        { "name": "Elixer", "count": 1 },
+        { "name": "Poke Flute", "count": 1 },
+        { "name": "Great Ball", "count": 2 }
+    ],
+    "badges": [
+        "boulder",
+        "cascade",
+        "thunder",
+        "rainbow"
     ],
     "party": [
         {
-            "species": "Oddish",
+            "species": "Gloom",
             "name": "x(araggbaj",
-            "nickname": "Seed of Hope",
-            "level": 22,
+            "nickname": "Cabbage",
+            "level": 24,
             "moves": [
                 "Cut",
                 "Poison Powder",
@@ -26,7 +36,7 @@
             "species": "Raticate",
             "name": "AAJST(????",
             "nickname": "Digrat",
-            "level": 25,
+            "level": 27,
             "moves": [
                 "Dig",
                 "Body Slam",
@@ -38,7 +48,7 @@
             "species": "Farfetch'd",
             "name": "Dux",
             "nickname": "Slayer of Trees",
-            "level": 23,
+            "level": 25,
             "moves": [
                 "Cut",
                 "Sand Attack",
@@ -50,7 +60,7 @@
             "species": "Pidgeot",
             "name": "aaabaaajss",
             "nickname": "Bird Jesus",
-            "level": 48,
+            "level": 51,
             "moves": [
                 "Gust",
                 "Quick Attack",
@@ -74,7 +84,7 @@
             "species": "Ghastly",
             "name": "Ghastly",
             "nickname": "Rick Ghastly",
-            "level": 20,
+            "level": 21,
             "moves": [
                 "Lick",
                 "Confuse Ray",
@@ -84,52 +94,58 @@
     ],
     "updates": [
         {
-            "id": 1,
             "category": "Battle",
-            "title": "Test A",
-            "time": 1392879603741
+            "title": "Red vs Gambler, Red wins",
+            "time": 1392879603,
+            "description": "Extended description goes here"
         },
         {
-            "id": 1,
-            "category": "Roster",
-            "title": "Test B",
-            "time": 1392879603741
+            "category": "Items",
+            "title": "Hyper potion found",
+            "time": 1392879603,
+            "description": "Lorem ipsum blah blah blah blah blah blah blah blah"
         },
         {
-            "id": 1,
-            "category": "Inventory",
-            "title": "Test C",
-            "time": 1392879603741
+            "category": "Meta",
+            "title": "This is a test",
+            "time": 1392879603,
+            "description": null
         },
         {
-            "id": 1,
-            "category": "Roster",
-            "title": "Did a thing",
-            "time": 1392879603741
-        },
-        {
-            "id": 1,
-            "category": "Roster",
-            "title": "Released Hitmonlee",
-            "time": 1392879603741
-        },
-        {
-            "id": 1,
-            "category": "Roster",
-            "title": "Released Hitmonlee",
-            "time": 1392879603741
-        },
-        {
-            "id": 2,
             "category": "Travel",
-            "title": "Entered Lavender Tower",
-            "time": 1392879603741
+            "title": "Red leaves Lavender Town",
+            "time": 1392879603,
+            "description": null
         },
         {
-            "id": 1,
+            "category": "Battle",
+            "title": "Red vs Juggler, Red wins",
+            "time": 1392879603,
+            "description": null
+        },
+        {
             "category": "Roster",
-            "title": "Released Hitmonlee",
-            "time": 1392879603741
+            "title": "Bird Jesus reaches level 51",
+            "time": 1392879603,
+            "description": null
+        },
+        {
+            "category": "Battle",
+            "title": "Red vs Bird Keeper, Red wins",
+            "time": 1392879603,
+            "description": null
+        },
+        {
+            "category": "Items",
+            "title": "Rare candy used on Cabbage",
+            "time": 1392879603,
+            "description": null
+        },
+        {
+            "category": "Roster",
+            "title": "Cabbage evolves to Gloom",
+            "time": 1392879603,
+            "description": null
         }
     ]
 }
