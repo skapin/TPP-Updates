@@ -113,7 +113,8 @@
       "nickname": "Rick Gastly",
       "level": 22,
       "moves": [
-        "Lick"
+        "Lick",
+        "Confuse Ray"
       ]
     }
   ],
