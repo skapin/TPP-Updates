@@ -1,151 +1,184 @@
 {
-    "version": 1,
-    "goal": "Reach Fuschia City via Route 12, 13, 14",
-    "balance": 2687,
-    "inventory": [
-        { "name": "Helix Fossil", "count": 1 },
-        { "name": "Sliph Scope", "count": 1 },
-        { "name": "Lift Key", "count": 1 },
-        { "name": "S.S. Ticket", "count": 1 },
-        { "name": "HM01 Cut", "count": 1 },
-        { "name": "Super Rod", "count": 1 },
-        { "name": "Elixer", "count": 1 },
-        { "name": "Poke Flute", "count": 1 },
-        { "name": "Great Ball", "count": 2 }
-    ],
-    "badges": [
-        "boulder",
-        "cascade",
-        "thunder",
-        "rainbow"
-    ],
-    "party": [
-        {
-            "species": "Gloom",
-            "name": "x(araggbaj",
-            "nickname": "Cabbage",
-            "level": 24,
-            "moves": [
-                "Cut",
-                "Poison Powder",
-                "Stun Spore",
-                "Sleep Powder"
-            ]
-        },
-        {
-            "species": "Raticate",
-            "name": "AAJST(????",
-            "nickname": "Digrat",
-            "level": 27,
-            "moves": [
-                "Dig",
-                "Body Slam",
-                "Quick Attack",
-                "Swift"
-            ]
-        },
-        {
-            "species": "Farfetch'd",
-            "name": "Dux",
-            "nickname": "Slayer of Trees",
-            "level": 25,
-            "moves": [
-                "Cut",
-                "Sand Attack",
-                "Leer",
-                "Fury Attack"
-            ]
-        },
-        {
-            "species": "Pidgeot",
-            "name": "aaabaaajss",
-            "nickname": "Bird Jesus",
-            "level": 51,
-            "moves": [
-                "Gust",
-                "Quick Attack",
-                "Sand Attack",
-                "Whirlwind"
-            ]
-        },
-        {
-            "species": "Drowzee",
-            "name": "Drowzee",
-            "nickname": "The Keeper",
-            "level": 24,
-            "moves": [
-                "Pound",
-                "Headbutt",
-                "Disable",
-                "Confusion"
-            ]
-        },
-        {
-            "species": "Ghastly",
-            "name": "Ghastly",
-            "nickname": "Rick Ghastly",
-            "level": 21,
-            "moves": [
-                "Lick",
-                "Confuse Ray",
-                "Night Shade"
-            ]
-        }
-    ],
-    "updates": [
-        {
-            "category": "Battle",
-            "title": "Red vs Gambler, Red wins",
-            "time": 1392879603,
-            "description": "Extended description goes here"
-        },
-        {
-            "category": "Items",
-            "title": "Hyper potion found",
-            "time": 1392879603,
-            "description": "Lorem ipsum blah blah blah blah blah blah blah blah"
-        },
-        {
-            "category": "Meta",
-            "title": "This is a test",
-            "time": 1392879603,
-            "description": null
-        },
-        {
-            "category": "Travel",
-            "title": "Red leaves Lavender Town",
-            "time": 1392879603,
-            "description": null
-        },
-        {
-            "category": "Battle",
-            "title": "Red vs Juggler, Red wins",
-            "time": 1392879603,
-            "description": null
-        },
-        {
-            "category": "Roster",
-            "title": "Bird Jesus reaches level 51",
-            "time": 1392879603,
-            "description": null
-        },
-        {
-            "category": "Battle",
-            "title": "Red vs Bird Keeper, Red wins",
-            "time": 1392879603,
-            "description": null
-        },
-        {
-            "category": "Items",
-            "title": "Rare candy used on Cabbage",
-            "time": 1392879603,
-            "description": null
-        },
-        {
-            "category": "Roster",
-            "title": "Cabbage evolves to Gloom",
-            "time": 1392879603,
-            "description": null
-        }
-    ]
+  "version": 1,
+  "balance": 4321,
+  "goal": "Reach Fuschia City via Route 12, 13, 14",
+  "badges": [
+    "boulder",
+    "cascade",
+    "thunder",
+    "rainbow"
+  ],
+  "inventory": [
+    {
+      "name": "Helix Fossil",
+      "count": 1
+    },
+    {
+      "name": "Sliph Scope",
+      "count": 1
+    },
+    {
+      "name": "Lift Key",
+      "count": 1
+    },
+    {
+      "name": "S.S. Ticket",
+      "count": 1
+    },
+    {
+      "name": "HM01 Cut",
+      "count": 1
+    },
+    {
+      "name": "Super Rod",
+      "count": 1
+    },
+    {
+      "name": "Elixer",
+      "count": 1
+    },
+    {
+      "name": "Poke Flute",
+      "count": 1
+    },
+    {
+      "name": "Great Ball",
+      "count": 2
+    }
+  ],
+  "party": [
+    {
+      "species": "Gloom",
+      "name": "x(araggbaj",
+      "nickname": "Cabbage",
+      "level": 24,
+      "moves": [
+        "Cut",
+        "Poison Powder",
+        "Stun Spore",
+        "Sleep Powder"
+      ]
+    },
+    {
+      "species": "Raticate",
+      "name": "AAJST(????",
+      "nickname": "Digrat",
+      "level": 27,
+      "moves": [
+        "Dig",
+        "Body Slam",
+        "Quick Attack",
+        "Swift"
+      ]
+    },
+    {
+      "species": "Farfetch'd",
+      "name": "Dux",
+      "nickname": "Slayer of Trees",
+      "level": 25,
+      "moves": [
+        "Cut",
+        "Sand Attack",
+        "Leer",
+        "Fury Attack"
+      ]
+    },
+    {
+      "species": "Pidgeot",
+      "name": "aaabaaajss",
+      "nickname": "Bird Jesus",
+      "level": 51,
+      "moves": [
+        "Gust",
+        "Quick Attack",
+        "Sand Attack",
+        "Whirlwind"
+      ]
+    },
+    {
+      "species": "Drowzee",
+      "name": "Drowzee",
+      "nickname": "The Keeper",
+      "level": 24,
+      "moves": [
+        "Pound",
+        "Headbutt",
+        "Disable",
+        "Confusion"
+      ]
+    },
+    {
+      "species": "Ghastly",
+      "name": "Ghastly",
+      "nickname": "Rick Ghastly",
+      "level": 21,
+      "moves": [
+        "Lick",
+        "Confuse Ray",
+        "Night Shade"
+      ]
+    }
+  ],
+  "updates": [
+    {
+      "time": 1392879603,
+      "title": "Red vs Gambler, Red wins",
+      "category": "Battle",
+      "description": "Extended description goes here"
+    },
+    {
+      "time": 1392879603,
+      "title": "Hyper potion found",
+      "category": "Items",
+      "description": "Lorem ipsum blah blah blah blah blah blah blah blah"
+    },
+    {
+      "time": 1392879603,
+      "title": "This is a test",
+      "category": "Meta",
+      "description": null
+    },
+    {
+      "time": 1392879603,
+      "title": "Red leaves Lavender Town",
+      "category": "Travel",
+      "description": null
+    },
+    {
+      "time": 1392879603,
+      "title": "Red vs Juggler, Red wins",
+      "category": "Battle",
+      "description": null
+    },
+    {
+      "time": 1392879603,
+      "title": "Bird Jesus reaches level 51",
+      "category": "Roster",
+      "description": null
+    },
+    {
+      "time": 1392879603,
+      "title": "Red vs Bird Keeper, Red wins",
+      "category": "Battle",
+      "description": null
+    },
+    {
+      "time": 1392879603,
+      "title": "Rare candy used on Cabbage",
+      "category": "Items",
+      "description": null
+    },
+    {
+      "time": 1392879603,
+      "title": "Cabbage evolves to Gloom",
+      "category": "Roster",
+      "description": null
+    },
+    {
+      "time": 710444,
+      "title": "\"Red vs Fisherman, Red wins\"",
+      "category": "Battle",
+      "description": "\"This was one hell of a battle\""
+    }
+  ]
 }
