@@ -119,5 +119,12 @@
       ]
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "time": 1392954780,
+      "title": "Entered Fuchsia City",
+      "category": "Travel",
+      "description": ""
+    }
+  ]
 }
