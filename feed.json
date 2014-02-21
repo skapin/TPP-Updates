@@ -125,6 +125,12 @@
       "title": "Entered Fuchsia City",
       "category": "Travel",
       "description": ""
+    },
+    {
+      "time": 1392944227,
+      "title": "Picked up Poke Flute",
+      "category": "Items",
+      "description": ""
     }
   ]
 }
