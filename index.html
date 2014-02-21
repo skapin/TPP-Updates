@@ -26,12 +26,10 @@
                 </div>
                 <div class="col-md-4">
                     <div class="filter">
-                        <strong>Filter by:</strong>
-                        <a href="#" data-filter="Travel" class="label label-primary">Travel</a>
-                        <a href="#" data-filter="Roster" class="label label-warning">Roster</a>
-                        <a href="#" data-filter="Inventory" class="label label-success">Inventory</a>
-                        <a href="#" data-filter="Battle" class="label label-danger">Battle</a>
-                        <a href="#" data-filter="Meta" class="label label-info">Meta</a>
+                        <strong>Show updates:</strong>
+                        <span data-bind="foreach: filter_options">
+                            <a href="#" data-bind="text: $data, attr: { 'data-category': $data }, click: $parent.updateFilter" class="label"></a>
+                        </span>
                     </div>
                     <div class="sidebar" data-bind="foreach: recentUpdates">
                         <div class="update">

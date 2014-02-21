@@ -15,22 +15,26 @@
     font-size: 18pt;
 }
 
-.update .label[data-category="Battle"] {
+.label[data-category="Battle"] {
     background-color: rgb(217, 83, 79);
 }
 
-.update .label[data-category="Travel"] {
+.label[data-category="Travel"] {
     background-color: rgb(48, 113, 169);
 }
 
-.update .label[data-category="Roster"] {
+.label[data-category="Roster"] {
     background-color: rgb(240, 173, 78);
 }
 
-.update .label[data-category="Inventory"] {
+.label[data-category="Inventory"] {
     background-color: rgb(92, 184, 92);
 }
 
-.update .label[data-category="Meta"] {
+.label[data-category="Meta"] {
     background-color: rgb(91, 192, 222);
+}
+
+.label.disabled {
+    background-color: #444;
 }

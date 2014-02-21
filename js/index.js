@@ -5,7 +5,11 @@ var api_version = 1;
 function ViewModel() {
     var self = this;
 
-    self.filter = ko.observable(['Travel', 'Roster', 'Inventory', 'Battle', 'Meta']);
+    self.filter_options = ko.observable(['Travel', 'Roster', 'Inventory', 'Battle', 'Meta']);
+    self.filter = ko.observableArray();
+    for (var i = 0; i < self.filter_options().length; i++) {
+        self.filter.push(self.filter_options()[i]);
+    }
     self.error = ko.observable(null);
     self.updates = ko.observableArray();
     self.inventory = ko.observableArray();
@@ -31,6 +35,16 @@ function ViewModel() {
     self.oldUpdates = ko.computed(function() {
         return self.filtered().slice(5);
     }, self);
+
+    self.updateFilter = function(data, e) {
+        if (self.filter().indexOf(data) === -1) {
+            self.filter.push(data);
+            e.target.classList.remove('disabled');
+        } else {
+            self.filter.remove(data);
+            e.target.classList.add('disabled');
+        }
+    };
 
     var getUpdates = function() {
         var xhr = new XMLHttpRequest();
