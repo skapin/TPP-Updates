@@ -73,7 +73,7 @@
                 <div class="update col-md-4">
                     <h3 data-bind="text: title"></h3>
                     <p data-bind="visible: description, text: description"></p>
-                    <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ 3d 4h 3m 25s (1 hour ago)</span></p>
+                    <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time)"></span></span></p>
                 </div>
             </div>
         </div>
