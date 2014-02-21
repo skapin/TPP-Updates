@@ -1,13 +1,12 @@
 {
   "version": 1,
-  "balance": 2687,
+  "balance": 18008,
   "goal": "Safari Zone or Fuchsia Gym",
   "badges": [
     "boulder",
     "cascade",
     "thunder",
-    "rainbow",
-    "soul"
+    "rainbow"
   ],
   "inventory": [
     {
@@ -39,11 +38,11 @@
       "count": 1
     },
     {
-      "name": "Great Ball",
-      "count": 2
+      "name": "Super Rod",
+      "count": 1
     },
     {
-      "name": "Super Rod",
+      "name": "PP Up",
       "count": 1
     }
   ],
@@ -52,7 +51,7 @@
       "species": "Gloom",
       "name": "x(araggbaj",
       "nickname": "Cabbage",
-      "level": 25,
+      "level": 24,
       "moves": [
         "Cut",
         "Poison Powder",
@@ -64,7 +63,7 @@
       "species": "Raticate",
       "name": "AAJST(????",
       "nickname": "Digrat",
-      "level": 27,
+      "level": 29,
       "moves": [
         "Dig",
         "Body Slam",
@@ -76,7 +75,7 @@
       "species": "Farfetch'd",
       "name": "Dux",
       "nickname": "Slayer of Trees",
-      "level": 25,
+      "level": 26,
       "moves": [
         "Cut",
         "Sand Attack",
@@ -100,7 +99,7 @@
       "species": "Drowzee",
       "name": "Drowzee",
       "nickname": "The Keeper",
-      "level": 24,
+      "level": 25,
       "moves": [
         "Pound",
         "Headbutt",
@@ -120,72 +119,5 @@
       ]
     }
   ],
-  "updates": [
-    {
-      "time": 1392965151,
-      "title": "Red vs Fisherman, Red wins",
-      "category": "Battle",
-      "description": "This was one hell of a battle"
-    },
-    {
-      "time": 1392879603,
-      "title": "Red vs Gambler, Red wins",
-      "category": "Battle",
-      "description": "Extended description goes here"
-    },
-    {
-      "time": 1392879603,
-      "title": "Hyper potion found",
-      "category": "Items",
-      "description": "Lorem ipsum blah blah blah blah blah blah blah blah"
-    },
-    {
-      "time": 1392879603,
-      "title": "This is a test",
-      "category": "Meta",
-      "description": null
-    },
-    {
-      "time": 1392879603,
-      "title": "Red leaves Lavender Town",
-      "category": "Travel",
-      "description": null
-    },
-    {
-      "time": 1392879603,
-      "title": "Red vs Juggler, Red wins",
-      "category": "Battle",
-      "description": null
-    },
-    {
-      "time": 1392879603,
-      "title": "Bird Jesus reaches level 51",
-      "category": "Roster",
-      "description": null
-    },
-    {
-      "time": 1392879603,
-      "title": "Red vs Bird Keeper, Red wins",
-      "category": "Battle",
-      "description": null
-    },
-    {
-      "time": 1392879603,
-      "title": "Rare candy used on Cabbage",
-      "category": "Items",
-      "description": null
-    },
-    {
-      "time": 1392879603,
-      "title": "Cabbage evolves to Gloom",
-      "category": "Roster",
-      "description": null
-    },
-    {
-      "time": 1392363127,
-      "title": "Picked up great ball",
-      "category": "Items",
-      "description": ""
-    }
-  ]
+  "updates": []
 }
