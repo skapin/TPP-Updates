@@ -112,7 +112,9 @@
       "name": "Ghastly",
       "nickname": "Rick Ghastly",
       "level": 22,
-      "moves": []
+      "moves": [
+        "Lick"
+      ]
     }
   ],
   "updates": [
