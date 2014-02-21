@@ -131,6 +131,12 @@
       "title": "Picked up Poke Flute",
       "category": "Items",
       "description": ""
+    },
+    {
+      "time": 1392852276,
+      "title": "Defeated fighting Dojo",
+      "category": null,
+      "description": ""
     }
   ]
 }
