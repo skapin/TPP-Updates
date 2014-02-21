@@ -179,6 +179,12 @@
       "title": "Cabbage evolves to Gloom",
       "category": "Roster",
       "description": null
+    },
+    {
+      "time": 266890,
+      "title": "Picked up potion",
+      "category": "Items",
+      "description": ""
     }
   ]
 }
