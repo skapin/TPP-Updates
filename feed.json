@@ -106,17 +106,6 @@
         "Disable",
         "Confusion"
       ]
-    },
-    {
-      "species": "Ghastly",
-      "name": "Ghastly",
-      "nickname": "Rick Ghastly",
-      "level": 22,
-      "moves": [
-        "Lick",
-        "Confuse Ray",
-        "Night Shade"
-      ]
     }
   ],
   "updates": [
