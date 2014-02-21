@@ -1,5 +1,5 @@
 var tpp_start_time = 1392254507;
-var update_interval = 3000;
+var update_interval = 10000;
 var api_version = 1;
 
 function ViewModel() {
@@ -60,25 +60,28 @@ function ViewModel() {
     };
 
     var getUpdates = function() {
-        var xhr = new XMLHttpRequest();
-        xhr.open('GET', '/feed.json');
-        xhr.onload = function() {
-            try {
-                var json = JSON.parse(this.responseText);
-                if (json.version > api_version) {
-                    window.location = window.location;
+        try
+        {
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', '/feed.json');
+            xhr.onload = function() {
+                try {
+                    var json = JSON.parse(this.responseText);
+                    if (json.version > api_version) {
+                        window.location = window.location;
+                    }
+                    self.updates(json.updates);
+                    self.inventory(json.inventory);
+                    self.balance(json.balance);
+                    self.party(json.party);
+                    self.goal(json.goal);
+                    self.badges(json.badges);
+                } catch (e) {
+                    self.error("Error getting latest news.");
                 }
-                self.updates(json.updates);
-                self.inventory(json.inventory);
-                self.balance(json.balance);
-                self.party(json.party);
-                self.goal(json.goal);
-                self.badges(json.badges);
-            } catch (e) {
-                self.error("Error getting latest news.");
-            }
-        };
-        xhr.send();
+            };
+            xhr.send();
+        } catch (ex) { }
     };
     getUpdates();
     setInterval(getUpdates, update_interval);
