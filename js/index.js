@@ -1,6 +1,6 @@
 var tpp_start_time = 1392254507;
 var update_interval = 5000;
-var api_version = 5;
+var api_version = 6;
 
 function ViewModel() {
     var self = this;
@@ -17,6 +17,7 @@ function ViewModel() {
     self.party = ko.observableArray();
     self.goal = ko.observable();
     self.badges = ko.observableArray();
+    self.time = ko.observable("time");
 
     self.filtered = ko.computed(function() {
         var result = [];
@@ -85,6 +86,13 @@ function ViewModel() {
         setTimeout(getUpdates, update_interval);
     };
     getUpdates();
+
+    var updateTime = function() {
+        var date = new Date();
+        self.time("UTC: " + ("0" + date.getMinutes()).slice(-2) + ":" + ("0" + date.getSeconds()).slice(-2) + "." + ("0" + Math.floor(date.getMilliseconds() / 10)).slice(-2));
+        setTimeout(updateTime, 50);
+    };
+    updateTime();
     
     return self;
 };
