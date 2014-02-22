@@ -25,6 +25,17 @@
             </ul>
             <p>Times are noted in the form of "1d1h1m1s"</p>
             <p><strong>Remember to use the quotes where required!</strong></p>
+            <h2>Examples</h2>
+            <p>You want to make a comment on how the battle's going down: <code>.update commentary "Bird Jesus poisoned" "Bird Jesus is in some trouble, let's hope he pulls through"</code></p>
+            <p>This sets the title of the update to "Bird Jesus poisoned", and the extended commentary is "Bird Jesus is in some trouble..."</p>
+            <p>Say we catch a pidgey: <code>.update roster "Red catches a Pidgey"</code>. This doesn't include an extended description - it's optional.</p>
+            <p>If you want to add an event in the past, try something like: <code>.update battle "Red vs Blue, Blue wins" "Description goes here" 4d5h3m10s</code></p>
+            <p>This will add the event at 4 days, 5 hours, 3 minutes, and 10 seconds from the start of Twitch Plays Pokemon (aka the timer shown on the stream).</p>
+            <h2>Notes</h2>
+            <p>If we use <i>or</i> drop an item, use <code>.drop "item name"</code> to indicate that change. Also, use <code>.catch</code> only when Pokemon are added to the
+            party, and <code>.release</code> when Pokemon are removed from the party. Don't use it when we catch a Pokemon and send it to the PC. You <b>should</b> use 
+            <code>.catch</code> and <code>.release</code> when we move Pokemon to/from the PC. It updates the party on the front page.</p>
+            <p>One last thought: the only command that adds an update is <code>.update</code>. The rest modify the other parts of the live update page, like the inventory.</p>
         </div>
     </body>
 </html>
