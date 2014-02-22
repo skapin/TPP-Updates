@@ -9,7 +9,29 @@
     <body>
         <div class="container">
             <h1>Live Update Commands</h1>
-            <p>Be in #tppmods in irc.freenode.net. Talk to the bot there and use these commands:</p>
+            <p>Live updates are published by talking to an IRC bot on Freenode.</p>
+            <h2>Getting set up on Freenode</h2>
+            <p>Freenode is an IRC chat network. We can use it to talk to each other about moderation and live updates, as well as talk to
+            a bot that will publish live updates. To connect to Freenode, you should have a client:</p>
+            <ul>
+                <li><a href="http://hexchat.github.io/">HexChat</a> for Windows</li>
+                <li><a href="http://colloquy.info/">Colloqy</a> for OS X</li>
+                <li><a href="http://weechat.org/">WeeChat</a> for Linux (HexChat if you want a GUI)</li>
+            </ul>
+            <p>Pick your client and tell it to connect to Freenode (your client should have Freenode set up automatically, but if not, it's chat.freenode.net).</p>
+            <p>Each IRC network (like ours, Freenode) consists of several IRC channels. These are chat rooms, with several people chatting in a single channel.
+            The Freenode channel for discussing TPP is called #twitchplayspokemon, and we use a private channel called #tppmods to publish live updates and talk
+            with each other. To join a channel, type <code>/join #channelname</code>. You'll need to be fully set up before you can join #tppmods, though.</p>
+            <p>Speaking of getting fully set up, we need to establish who you are. Basically, we can't have any old person updating the site - it'll turn into a
+            spamfest right away. To do so, you'll need to register (it's easy): <code>/msg NickServ help register</code>. Once that's out of the way, you'll
+            need an "unaffiliated cloak", which protects your IP and makes sure the bot can consistently identify you (also pretty easy). Type <code>/join #freenode</code>
+            and ask: "Can I get an unaffiliated cloak?". You can mention one of the people with + or a dot next to their names if no one is paying attention.</p>
+            <p>Once you're identified and cloaked, you're good to go. You need to use <code>/msg NickServ identify password</code> with your password whenever you
+            connect to the network to make sure you're logged in. You can make your life easier by looking around in your IRC settings for the server username and
+            password and putting them in there instead. Send a message to SirCmpwn (<code>/msg SirCmpwn your message here</code>) and ask to be invited to #tppmods.</p>
+            <h2>Talking to the bot</h2>
+            <p>To talk to the bot, just say one of these commands in any channel PokeBot is in (includes #tppmods). You can also send these to PokeBot in a private
+            message (like <code>/msg PokeBot .levelup Pikachu</code>).</p>
             <ul>
                 <li><strong>.update category "title" "description" time</strong>: Categories are Travel, Roster, Items, Battle, Commentary, Meta. Time and description optional, default time is the time the update was published.</li>
                 <li><strong>.levelup pokemon</strong>: Levels up a Pokemon.</li>
