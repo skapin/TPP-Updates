@@ -71,3 +71,12 @@
 .pokemon {
     min-height: 80px;
 }
+
+.goal {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.time {
+    margin-left: 325px;
+}
