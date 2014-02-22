@@ -126,6 +126,30 @@
   ],
   "updates": [
     {
+      "time": 1393107396,
+      "title": "Route 8",
+      "category": "Travel",
+      "description": null
+    },
+    {
+      "time": 1393107083,
+      "title": "Underground passage",
+      "category": "Travel",
+      "description": "Not sure if we'll follow it all the way"
+    },
+    {
+      "time": 1393106850,
+      "title": "Red vs Wild Oddish, Red runs",
+      "category": "Battle",
+      "description": null
+    },
+    {
+      "time": 1393106725,
+      "title": "Added 'strategy' updates",
+      "category": "Meta",
+      "description": "These updates will be used to share new strategies for controlling the mob"
+    },
+    {
       "time": 1393105566,
       "title": "Entered Celadon City",
       "category": "Travel",
