@@ -53,18 +53,6 @@
   ],
   "party": [
     {
-      "species": "Gloom",
-      "name": "x(araggbaj",
-      "nickname": "Cabbage",
-      "level": 25,
-      "moves": [
-        "Cut",
-        "Poison Powder",
-        "Stun Spore",
-        "Sleep Powder"
-      ]
-    },
-    {
       "species": "Farfetch'd",
       "name": "Dux",
       "nickname": "Slayer of Trees",
