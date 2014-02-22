@@ -115,7 +115,9 @@
       "name": "x(araggbaj",
       "nickname": "xCabbage",
       "level": 24,
-      "moves": null
+      "moves": [
+        "Cut"
+      ]
     }
   ],
   "updates": [
