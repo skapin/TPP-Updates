@@ -126,6 +126,12 @@
   ],
   "updates": [
     {
+      "time": 1393106725,
+      "title": "Added 'strategy' updates",
+      "category": "Meta",
+      "description": "These updates will be used to share new strategies for controlling the mob"
+    },
+    {
       "time": 1393105566,
       "title": "Entered Celadon City",
       "category": "Travel",
