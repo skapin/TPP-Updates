@@ -97,7 +97,7 @@ function ViewModel() {
 
     var updateTime = function() {
         var date = new Date();
-        self.time("Your UTC: " + ("0" + date.getMinutes()).slice(-2) + " : " + ("0" + date.getSeconds()).slice(-2) + " . " + ("0" + Math.floor(date.getMilliseconds() / 10)).slice(-2));
+        self.time("Your UTC: " + ("0" + date.getMinutes()).slice(-2) + " :" + ("0" + date.getSeconds()).slice(-2) + " ." + ("0" + Math.floor(date.getMilliseconds() / 10)).slice(-2));
         setTimeout(updateTime, 50);
     };
     updateTime();
