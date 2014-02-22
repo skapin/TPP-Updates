@@ -120,7 +120,9 @@
       "name": "AAAIIIIIRRR",
       "nickname": "AAAIIIIIRRR",
       "level": 15,
-      "moves": null
+      "moves": [
+        "Water Gun"
+      ]
     }
   ],
   "updates": [
