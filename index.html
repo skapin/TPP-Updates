@@ -69,11 +69,13 @@
                 </div>
             </div>
             <h2>Older Updates</h2>
-            <div class="row" data-bind="foreach: oldUpdates">
-                <div class="update col-md-4">
-                    <h3 data-bind="text: title"></h3>
-                    <p data-bind="visible: description, text: description"></p>
-                    <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time)"></span></span></p>
+            <div data-bind="foreach: oldUpdates">
+                <div class="row">
+                    <div class="update col-md-4">
+                        <h3 data-bind="text: title"></h3>
+                        <p data-bind="visible: description, text: description"></p>
+                        <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time)"></span></span></p>
+                    </div>
                 </div>
             </div>
         </div>
