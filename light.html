@@ -23,7 +23,7 @@
             <div class="row" data-bind="foreach: recentishUpdates">
                 <div class="update col-md-4">
                     <h3 data-bind="text: title"></h3>
-                    <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time)"></span> &mdash; <span data-bind="text: updater"></span></span></p>
+                    <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time)"></span> <span class="visible: updater">&mdash;</span> <span data-bind="text: updater"></span></span></p>
                 </div>
             </div>
             <div class="row">
@@ -58,7 +58,7 @@
             <div class="row" data-bind="foreach: oldishUpdates">
                 <div class="update col-md-4">
                     <h3 data-bind="text: title"></h3>
-                    <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time)"></span> &mdash; <span data-bind="text: updater"></span></span></p>
+                    <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time)"></span> <span class="visible: updater">&mdash;</span> <span data-bind="text: updater"></span></span></p>
                 </div>
             </div>
         </div>
