@@ -126,544 +126,648 @@
   ],
   "updates": [
     {
+      "time": 1393109070,
+      "title": "Briefly visited Fighting Dojo",
+      "category": "Travel",
+      "description": "<p>Nothing really happened.</p>\n",
+      "updater": "SirCmpwn"
+    },
+    {
+      "time": 1393108422,
+      "title": "Entered Saffaron City",
+      "category": "Travel",
+      "description": null,
+      "updater": null
+    },
+    {
       "time": 1393107396,
       "title": "Route 8",
       "category": "Travel",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393107083,
       "title": "Underground passage",
       "category": "Travel",
-      "description": "Not sure if we'll follow it all the way"
+      "description": "Not sure if we'll follow it all the way",
+      "updater": null
     },
     {
       "time": 1393106850,
       "title": "Red vs Wild Oddish, Red runs",
       "category": "Battle",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393106725,
       "title": "Added 'strategy' updates",
       "category": "Meta",
-      "description": "These updates will be used to share new strategies for controlling the mob"
+      "description": "These updates will be used to share new strategies for controlling the mob",
+      "updater": null
     },
     {
       "time": 1393105566,
       "title": "Entered Celadon City",
       "category": "Travel",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393104920,
       "title": "Stream enters democracy mode",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393104400,
       "title": "Red vs Wild Pidgey, Pidgey whirlwinds",
       "category": "Battle",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393104297,
       "title": "Red vs Wild Pidgey, Red runs",
       "category": "Battle",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393104027,
       "title": "Route 7",
       "category": "Travel",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393101440,
       "title": "Near miss at the PC",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393098593,
       "title": "Picked up TM46 Psywave",
       "category": "Items",
-      "description": "Thanks, Sabrina"
+      "description": "Thanks, Sabrina",
+      "updater": null
     },
     {
       "time": 1393098562,
       "title": "MarshBadge GET",
       "category": "Items",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393098536,
       "title": "Red vs Sabrina, Red win",
       "category": "Battle",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393098497,
       "title": "Alakazam straight to 1 HP",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393098455,
       "title": "Last up for Sabrina, Alakazam",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393098428,
       "title": "Bird Jesus sweeps Venomoth",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393098418,
       "title": "Venomoth vs Jesus, FIGHT",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393098399,
       "title": "Bird Jesus takes out Mr. Mime",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393098367,
       "title": "Bird Jesus mirrors Barrier",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393098297,
       "title": "Bird Jesus halves Mime with the Quick Attack",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393098271,
       "title": "Sand Attack right off the bat",
       "category": "Commentary",
-      "description": "Bird Jesus taking that accuracy down like a champ"
+      "description": "Bird Jesus taking that accuracy down like a champ",
+      "updater": null
     },
     {
       "time": 1393098243,
       "title": "Bird Jesus vs Mr. MIME",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393098225,
       "title": "Bird Jesus one-shot's Kadabra",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393098216,
       "title": "Kadabra recovers to full strength",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393098160,
       "title": "Mirror Move's back",
       "category": "Commentary",
-      "description": "Bird Jesus uses Psycic"
+      "description": "Bird Jesus uses Psycic",
+      "updater": null
     },
     {
       "time": 1393098033,
       "title": "Kadabra feeling the accuracy drain",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393097969,
       "title": "Kadabra, full strength",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393097954,
       "title": "Mirror Move disabled, Kadabra Recovers",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393097928,
       "title": "Bird Jesus takes the field!",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393097913,
       "title": "DUX killed immediately",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393097893,
       "title": "Cabbage is up next, killed immediately",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393097876,
       "title": "Out comes ATV, killed immediately",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393097858,
       "title": "Drowzee taken out!",
       "category": "Commentary",
-      "description": "But he leaves Kadabra in bad shape"
+      "description": "But he leaves Kadabra in bad shape",
+      "updater": null
     },
     {
       "time": 1393097833,
       "title": "Drowzee's Headbutt disabled!",
       "category": "Commentary",
-      "description": "Right before he was going to use it"
+      "description": "Right before he was going to use it",
+      "updater": null
     },
     {
       "time": 1393097811,
       "title": "Drowzee vs Kadabra",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393096625,
       "title": "Wandering around Saffaron",
       "category": "Travel",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393096540,
       "title": "Black out to Saffaron Pokemon Center",
       "category": "Travel",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393096522,
       "title": "Red vs Sabrina, Red loss",
       "category": "Battle",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393096515,
       "title": "Kadabra takes out Cabbage with Psybeam!",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393096461,
       "title": "Out comes Cabbage",
       "category": "Commentary",
-      "description": "Full HP, no mods"
+      "description": "Full HP, no mods",
+      "updater": null
     },
     {
       "time": 1393096427,
       "title": "Kadabra takes out Bird Jesus!",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393096391,
       "title": "Red party looking pretty miserable",
       "category": null,
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393096322,
       "title": "Face to face with Sabrina",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393096292,
       "title": "Red vs Psycic, Red wins",
       "category": "Battle",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393096279,
       "title": "Bird Jesus takes out Slowbro",
       "category": "Commentary",
-      "description": "Down to 96 HP, rough battle"
+      "description": "Down to 96 HP, rough battle",
+      "updater": null
     },
     {
       "time": 1393096070,
       "title": "Red vs Psycic",
       "category": "Commentary",
-      "description": "First out is Slowbro vs Bird Jesus"
+      "description": "First out is Slowbro vs Bird Jesus",
+      "updater": null
     },
     {
       "time": 1393096047,
       "title": "Sabrina's Gym",
       "category": "Travel",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393093992,
       "title": "Visiting Fighting Dojo again",
       "category": "Travel",
-      "description": "Nothing to do here"
+      "description": "Nothing to do here",
+      "updater": null
     },
     {
       "time": 1393056287,
       "title": "Taught Lapras Strength",
       "category": "Roster",
-      "description": ""
+      "description": "",
+      "updater": null
     },
     {
       "time": 1393055375,
       "title": "Switching up the roster",
       "category": "Commentary",
-      "description": "Better make sure the order's right"
+      "description": "Better make sure the order's right",
+      "updater": null
     },
     {
       "time": 1393053137,
       "title": "Taught Surf to Lapras",
       "category": "Roster",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393051518,
       "title": "Healed at Saffaron Pokemon Center",
       "category": "Travel",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393047877,
       "title": "Dropped TM06 Toxic",
       "category": "Items",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393041318,
       "title": "#throwback Friday with an Oddish vs Gloom (Cabbage) battle!",
       "category": "Battle",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393038239,
       "title": "Red vs Rocket, Red wins",
       "category": "Battle",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393038227,
       "title": "Entered Sliph Co.",
       "category": "Travel",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393032322,
       "title": "Black out to Pokemon Center",
       "category": "Travel",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393032226,
       "title": "Red vs Scientist, Red loss",
       "category": "Battle",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393032167,
       "title": "Dux takes out Electrode",
       "category": "Commentary",
-      "description": "And out comes Wheezing"
+      "description": "And out comes Wheezing",
+      "updater": null
     },
     {
       "time": 1393032019,
       "title": "Red versus Scientist, FIGHT",
       "category": "Commentary",
-      "description": "Dux is our only mon"
+      "description": "Dux is our only mon",
+      "updater": null
     },
     {
       "time": 1393031938,
       "title": "Party wiped, Dux only hope",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393030143,
       "title": "Red defeats Rocket nub",
       "category": "Battle",
-      "description": "Dux MVP"
+      "description": "Dux MVP",
+      "updater": null
     },
     {
       "time": 1393029899,
       "title": "Dux takes out Drowzee",
       "category": "Commentary",
-      "description": "Out comes Marowak"
+      "description": "Out comes Marowak",
+      "updater": null
     },
     {
       "time": 1393029754,
       "title": "Pidgeot down for the count",
       "category": "Commentary",
-      "description": "Dux picking up the slack"
+      "description": "Dux picking up the slack",
+      "updater": null
     },
     {
       "time": 1393029593,
       "title": "Bird Jesus PSN and low HP",
       "category": "Commentary",
-      "description": "Outlook is grim for aaabaaajss"
+      "description": "Outlook is grim for aaabaaajss",
+      "updater": null
     },
     {
       "time": 1393029450,
       "title": "Cabbage is down",
       "category": "Battle",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393028698,
       "title": "We have a Lapras!",
       "category": "Roster",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393028535,
       "title": "Red defeats Blue",
       "category": "Battle",
-      "description": "Bird Jesus MVP"
+      "description": "Bird Jesus MVP",
+      "updater": null
     },
     {
       "time": 1393028163,
       "title": "Fighting Blue",
       "category": "Battle",
-      "description": "Looks like Bird Jesus is sweeping them"
+      "description": "Looks like Bird Jesus is sweeping them",
+      "updater": null
     },
     {
       "time": 1393025272,
       "title": "Looks like we're on the road again",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393025167,
       "title": "HYPNO's HP is almost gone!",
       "category": "Battle",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393024870,
       "title": "Finished battle with Arbok",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1393024825,
       "title": "Finished battle with Arbok",
       "category": null,
-      "description": "Just finished battle with Arbok"
+      "description": "Just finished battle with Arbok",
+      "updater": null
     },
     {
       "time": 1392972116,
       "title": "Koga falls to Red in Fuchsia",
       "category": "Battle",
-      "description": "Birds sweep the board"
+      "description": "Birds sweep the board",
+      "updater": null
     },
     {
       "time": 1392972026,
       "title": "Koga party wipe, only birds remain",
       "category": "Commentary",
-      "description": null
+      "description": null,
+      "updater": null
     },
     {
       "time": 1392971987,
       "title": "SoulBadge GET",
       "category": "Battle",
-      "description": ""
+      "description": "",
+      "updater": null
     },
     {
       "time": 1392971831,
       "title": "Bird Jesus takes on Muk",
       "category": "Commentary",
-      "description": "Let's see our savior sweep the board"
+      "description": "Let's see our savior sweep the board",
+      "updater": null
     },
     {
       "time": 1392970107,
       "title": "Red vs Bird Keeper, Red wins",
       "category": "Battle",
-      "description": "BigDig MVP"
+      "description": "BigDig MVP",
+      "updater": null
     },
     {
       "time": 1392954780,
       "title": "Entered Fuchsia City",
       "category": "Travel",
-      "description": ""
+      "description": "",
+      "updater": null
     },
     {
       "time": 1392947932,
       "title": "Picked up Super Rod",
       "category": "Items",
-      "description": ""
+      "description": "",
+      "updater": null
     },
     {
       "time": 1392944227,
       "title": "Picked up Poke Flute",
       "category": "Items",
-      "description": ""
+      "description": "",
+      "updater": null
     },
     {
       "time": 1392942100,
       "title": "Defeated ghost Marowak",
       "category": null,
-      "description": ""
+      "description": "",
+      "updater": null
     },
     {
       "time": 1392942100,
       "title": "Defeated ghost Marowak",
       "category": "Battle",
-      "description": ""
+      "description": "",
+      "updater": null
     },
     {
       "time": 1392852276,
       "title": "Defeated fighting Dojo",
       "category": null,
-      "description": ""
+      "description": "",
+      "updater": null
     },
     {
       "time": 1392796491,
       "title": "Defeated Blue in Pokemon Tower",
       "category": "Battle",
-      "description": ""
+      "description": "",
+      "updater": null
     },
     {
       "time": 1392791874,
       "title": "Picked up Silph Scope",
       "category": "Items",
-      "description": ""
+      "description": "",
+      "updater": null
     },
     {
       "time": 1392602927,
       "title": "RainbowBadge GET",
       "category": "Battle",
-      "description": ""
+      "description": "",
+      "updater": null
     },
     {
       "time": 1392468647,
       "title": "ThunderBadge GET",
       "category": "Battle",
-      "description": ""
+      "description": "",
+      "updater": null
     },
     {
       "time": 1392409067,
       "title": "CascadeBadge GET",
       "category": "Battle",
-      "description": ""
+      "description": "",
+      "updater": null
     },
     {
       "time": 1392287627,
       "title": "BoulderBage GET",
       "category": "Battle",
-      "description": ""
+      "description": "",
+      "updater": null
     }
   ]
 }
