@@ -1,7 +1,7 @@
 {
   "version": 5,
   "balance": 3699,
-  "goal": "Finish Silph Co. and get Master Ball",
+  "goal": "Wander around Saffaron doing fuck-all",
   "badges": [
     "boulder",
     "cascade",
@@ -97,7 +97,8 @@
         "Water Gun",
         "Growl",
         "",
-        ""
+        "",
+        "Surf"
       ]
     },
     {
@@ -126,6 +127,12 @@
     }
   ],
   "updates": [
+    {
+      "time": 1393053137,
+      "title": "Taught Surf to Lapras",
+      "category": "Roster",
+      "description": null
+    },
     {
       "time": 1393051518,
       "title": "Healed at Saffaron Pokemon Center",
