@@ -34,8 +34,16 @@ function ViewModel() {
         return self.filtered().slice(0, 5);
     }, self);
 
+    self.recentishUpdates = ko.computed(function() {
+        return self.filtered().slice(0, 6);
+    }, self);
+
     self.oldUpdates = ko.computed(function() {
         return self.filtered().slice(5);
+    }, self);
+
+    self.oldishUpdates = ko.computed(function() {
+        return self.filtered().slice(6);
     }, self);
 
     self.updateFilter = function(data, e) {
