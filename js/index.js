@@ -5,7 +5,7 @@ var api_version = 6;
 function ViewModel() {
     var self = this;
 
-    self.filter_options = ko.observable(['Travel', 'Roster', 'Items', 'Battle', 'Commentary']);
+    self.filter_options = ko.observable(['Travel', 'Roster', 'Items', 'Battle', 'Commentary', 'Strategy']);
     self.filter = ko.observableArray();
     for (var i = 0; i < self.filter_options().length; i++) {
         self.filter.push(self.filter_options()[i]);
