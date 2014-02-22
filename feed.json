@@ -128,25 +128,7 @@
   "updates": [
     {
       "time": 1393051518,
-      "title": "Entered Saffaron Pokémon Center",
-      "category": "Travel",
-      "description": "We healed this time"
-    },
-    {
-      "time": 1393051225,
-      "title": "Left Saffaron Pokémon Center",
-      "category": "Travel",
-      "description": null
-    },
-    {
-      "time": 1393051195,
-      "title": "Entered Saffaron Pokémon Center",
-      "category": "Travel",
-      "description": null
-    },
-    {
-      "time": 1393050426,
-      "title": "Briefly entered Saffron Pokémon Center",
+      "title": "Healed at Saffaron Pokemon Center",
       "category": "Travel",
       "description": null
     },
