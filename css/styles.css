@@ -55,12 +55,6 @@
     background-color: #444;
 }
 
-.badges {
-    position: absolute;
-    top: 65px;
-    right: 20px;
-}
-
 @media (max-width: 1188px) {
     object {
         width: 600px;
@@ -78,5 +72,13 @@
 }
 
 .time {
-    margin-left: 325px;
+    margin-left: 290px;
+}
+
+.switch {
+    font-size: 10pt;
+}
+
+.badges {
+    margin-bottom: 5px;
 }

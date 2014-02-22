@@ -9,10 +9,8 @@
     </head>
     <body>
         <div class="container">
-            <div class="badges" data-bind="foreach: badges">
-                <img width=30 height=30 data-bind="attr: { src: '/images/' + $data + 'badge.png' }" />
-            </div>
             <div class="page-header">
+                <a class="switch pull-right" href="/">Switch to Full version</a>
                 <h1>Twitch Plays Pokemon <small>Live Updates</small></h1>
             </div>
             <h3>Current Goal: <span data-bind="text: goal"></span></h3>
@@ -32,6 +30,9 @@
                 <div class="col-md-4" style="position: relative;">
                     <span style="position: absolute; top: 25px; right: 20px;" class="pull-right" data-bind="text: '$' + balance()"></span>
                     <h3>Inventory</h3>
+                    <div class="badges" data-bind="foreach: badges">
+                        <img width=30 height=30 data-bind="attr: { src: '/images/' + $data + 'badge.png' }" />
+                    </div>
                     <table class="table">
                         <tbody data-bind="foreach: inventory">
                             <tr>
