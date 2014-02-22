@@ -126,13 +126,6 @@
   ],
   "updates": [
     {
-      "time": 1393108746,
-      "title": "Test",
-      "category": "Meta",
-      "description": "<p>this is some <a href=\"http://google.com\">markdown</a></p>\n",
-      "updater": "SirCmpwn"
-    },
-    {
       "time": 1393108422,
       "title": "Entered Saffaron City",
       "category": "Travel",
