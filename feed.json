@@ -127,6 +127,12 @@
   ],
   "updates": [
     {
+      "time": 1393051518,
+      "title": "Entered Saffaron Pokémon Center",
+      "category": "Travel",
+      "description": "We healed this time"
+    },
+    {
       "time": 1393051225,
       "title": "Left Saffaron Pokémon Center",
       "category": "Travel",
