@@ -37,7 +37,7 @@
                         <div class="update">
                             <h3 data-bind="text: title"></h3>
                             <p class="only-first" data-bind="visible: description, html: description"></p>
-                            <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time)"></span> <span class="visible: updater">&mdash;</span> <span data-bind="text: updater"></span></span></p>
+                            <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time), attr: { title: time }"></span> <span data-bind="visible: updater">&mdash;</span> <span data-bind="text: updater"></span></span></p>
                         </div>
                         <hr />
                     </div>
@@ -77,7 +77,7 @@
             <div class="row" data-bind="foreach: oldUpdates">
                 <div class="update col-md-4">
                     <h3 data-bind="text: title"></h3>
-                    <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time)"></span> <span class="visible: updater">&mdash;</span> <span data-bind="text: updater"></span></span></p>
+                    <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time)"></span> <span data-bind="visible: updater">&mdash;</span> <span data-bind="text: updater"></span></span></p>
                 </div>
             </div>
         </div>
