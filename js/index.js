@@ -1,6 +1,7 @@
 var tpp_start_time = 1392254507;
 var update_interval = 5000;
 var api_version = 2;
+var req_index = 0;
 
 function ViewModel() {
     var self = this;
@@ -63,7 +64,7 @@ function ViewModel() {
         try
         {
             var xhr = new XMLHttpRequest();
-            xhr.open('GET', '/feed.json');
+            xhr.open('GET', '/feed.json?i=' + request_index++);
             xhr.onload = function() {
                 try {
                     var json = JSON.parse(this.responseText);
