@@ -1,5 +1,5 @@
 var tpp_start_time = 1392254507;
-var update_interval = 10000;
+var update_interval = 5000;
 var api_version = 1;
 
 function ViewModel() {
@@ -81,10 +81,10 @@ function ViewModel() {
                 }
             };
             xhr.send();
-        } catch (ex) { }
+        } catch (ex) { console.log("Error updating: " + ex); }
+        setTimeout(getUpdates, update_interval);
     };
     getUpdates();
-    setInterval(getUpdates, update_interval);
     
     return self;
 };
