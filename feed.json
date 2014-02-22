@@ -1,13 +1,14 @@
 {
   "version": 6,
-  "balance": 1938,
+  "balance": 6195,
   "goal": "Defeat Sabrina",
   "badges": [
     "boulder",
     "cascade",
     "thunder",
     "rainbow",
-    "soul"
+    "soul",
+    "marsh"
   ],
   "inventory": [
     {
@@ -40,6 +41,10 @@
     },
     {
       "name": "HM03 Surf",
+      "count": 1
+    },
+    {
+      "name": "TM46 Psywave",
       "count": 1
     }
   ],
@@ -120,6 +125,156 @@
     }
   ],
   "updates": [
+    {
+      "time": 1393098593,
+      "title": "Picked up TM46 Psywave",
+      "category": "Items",
+      "description": "Thanks, Sabrina"
+    },
+    {
+      "time": 1393098562,
+      "title": "MarshBadge GET",
+      "category": "Items",
+      "description": null
+    },
+    {
+      "time": 1393098536,
+      "title": "Red vs Sabrina, Red win",
+      "category": "Battle",
+      "description": null
+    },
+    {
+      "time": 1393098497,
+      "title": "Alakazam straight to 1 HP",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393098455,
+      "title": "Last up for Sabrina, Alakazam",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393098428,
+      "title": "Bird Jesus sweeps Venomoth",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393098418,
+      "title": "Venomoth vs Jesus, FIGHT",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393098399,
+      "title": "Bird Jesus takes out Mr. Mime",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393098367,
+      "title": "Bird Jesus mirrors Barrier",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393098297,
+      "title": "Bird Jesus halves Mime with the Quick Attack",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393098271,
+      "title": "Sand Attack right off the bat",
+      "category": "Commentary",
+      "description": "Bird Jesus taking that accuracy down like a champ"
+    },
+    {
+      "time": 1393098243,
+      "title": "Bird Jesus vs Mr. MIME",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393098225,
+      "title": "Bird Jesus one-shot's Kadabra",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393098216,
+      "title": "Kadabra recovers to full strength",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393098160,
+      "title": "Mirror Move's back",
+      "category": "Commentary",
+      "description": "Bird Jesus uses Psycic"
+    },
+    {
+      "time": 1393098033,
+      "title": "Kadabra feeling the accuracy drain",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393097969,
+      "title": "Kadabra, full strength",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393097954,
+      "title": "Mirror Move disabled, Kadabra Recovers",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393097928,
+      "title": "Bird Jesus takes the field!",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393097913,
+      "title": "DUX killed immediately",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393097893,
+      "title": "Cabbage is up next, killed immediately",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393097876,
+      "title": "Out comes ATV, killed immediately",
+      "category": "Commentary",
+      "description": null
+    },
+    {
+      "time": 1393097858,
+      "title": "Drowzee taken out!",
+      "category": "Commentary",
+      "description": "But he leaves Kadabra in bad shape"
+    },
+    {
+      "time": 1393097833,
+      "title": "Drowzee's Headbutt disabled!",
+      "category": "Commentary",
+      "description": "Right before he was going to use it"
+    },
+    {
+      "time": 1393097811,
+      "title": "Drowzee vs Kadabra",
+      "category": "Commentary",
+      "description": null
+    },
     {
       "time": 1393096625,
       "title": "Wandering around Saffaron",
