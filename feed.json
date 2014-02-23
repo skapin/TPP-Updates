@@ -88,7 +88,9 @@
       "name": "AATTVVV",
       "nickname": "ATVenomoth",
       "level": 33,
-      "moves": null
+      "moves": [
+        "Disable"
+      ]
     },
     {
       "species": "Drowzee",
