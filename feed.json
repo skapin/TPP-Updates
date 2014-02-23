@@ -55,6 +55,14 @@
   "party": [],
   "updates": [
     {
+      "time": 1393154031,
+      "title": "<p>We are in Rock Tunnel.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393154025,
       "title": "<p>Wrong way, guys</p>\n",
       "category": "Commentary",
