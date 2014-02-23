@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393148084,
+      "title": "<p>We have defeated PokeManiac!</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393148059,
       "title": "<p>Twitch Chat is actually hoping for a loss here, as swimming back to the Poke Center will be immensly difficult!</p>\n",
       "category": "Commentary",
