@@ -58,7 +58,9 @@
       "name": "Dux",
       "nickname": "Slayer of Trees",
       "level": 31,
-      "moves": null
+      "moves": [
+        "Cut"
+      ]
     },
     {
       "species": "Zapdos",
