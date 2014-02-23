@@ -111,6 +111,14 @@
   ],
   "updates": [
     {
+      "time": 1393157436,
+      "title": "<p>We're changing boxes, but we didn't press up! So we've changed it to Box 2, which is what we're on.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
       "time": 1393157303,
       "title": "<p>We're going down! Heading towards Change Box!</p>\n",
       "category": "Commentary",
