@@ -108,6 +108,14 @@
   ],
   "updates": [
     {
+      "time": 1393175418,
+      "title": "<p><strong>Anarchy mode activate</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393174877,
       "title": "<p>We're informed that taking another Pokemon with us is not possible. Try anyway.</p>\n",
       "category": "Commentary",
