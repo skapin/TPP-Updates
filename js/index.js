@@ -1,5 +1,5 @@
 var tpp_start_time = 1392254507;
-var update_interval = 15000;
+var update_interval = 5000;
 var api_version = 9;
 
 function ViewModel() {
