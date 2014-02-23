@@ -87,6 +87,13 @@
       "nickname": "Burger King",
       "level": 22,
       "moves": null
+    },
+    {
+      "species": "Gastly",
+      "name": "Gastly",
+      "nickname": "Rick Gastly",
+      "level": 22,
+      "moves": null
     }
   ],
   "updates": [
