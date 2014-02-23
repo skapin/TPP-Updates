@@ -108,6 +108,14 @@
   ],
   "updates": [
     {
+      "time": 1393174313,
+      "title": "<p><strong>Democracy mode!</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
       "time": 1393174260,
       "title": "<p>Guess who's back in the Poke Center?</p>\n",
       "category": "Travel",
