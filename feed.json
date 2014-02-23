@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393147308,
+      "title": "<p>If we do die, we are able to respawn at the Poke Center immediately.</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393147297,
       "title": "<p>Nope! He clutches at 9HP! Before.. yep! He's down!</p>\n",
       "category": "Commentary",
