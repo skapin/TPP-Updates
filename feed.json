@@ -94,6 +94,13 @@
       "nickname": "a",
       "level": 24,
       "moves": null
+    },
+    {
+      "species": "H",
+      "name": "H",
+      "nickname": "H",
+      "level": 24,
+      "moves": null
     }
   ],
   "updates": [
