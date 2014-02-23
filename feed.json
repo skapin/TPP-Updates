@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393144081,
+      "title": "<p>We are facing an Electabuzz! First one to be seen in the Power Plant.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393144051,
       "title": "<p>We are currently 1/4th way through the Power Plant! <a href=\"http://pokeworld.herokuapp.com/rb/83#14,21\">We are here</a>.</p>\n",
       "category": "Travel",
