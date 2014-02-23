@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393144633,
+      "title": "<p>xCabbage has fainted to a voltorb-item self-destructing! AIR and xCabbage are now down!</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393144486,
       "title": "<p>We are currently <a href=\"http://pokeworld.herokuapp.com/rb/83#23,28\">here</a>, ~40% in!</p>\n",
       "category": "Travel",
