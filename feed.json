@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393138818,
+      "title": "",
+      "category": "Strategy",
+      "description": "<p>In order to reach the Power Plant, we need to go up to the grassy area above the Pokemon Center. We can surf on the right there. See map <a href=\"http://pokeworld.herokuapp.com/rb/1#334,60\">here</a></p>\n",
+      "updater": "SirCmpwn",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393138787,
       "title": "<p>And back into the Poke Center again.</p>\n",
       "category": "Travel",
