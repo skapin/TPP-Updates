@@ -97,7 +97,9 @@
       "name": "ABB-??AAJ",
       "nickname": "Dash-Bat",
       "level": 18,
-      "moves": null
+      "moves": [
+        "Leech Life"
+      ]
     }
   ],
   "updates": [
