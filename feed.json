@@ -85,7 +85,9 @@
       "name": "AAAAAAAAAA",
       "nickname": "The Fonz",
       "level": 33,
-      "moves": null
+      "moves": [
+        "Focus Energy"
+      ]
     },
     {
       "species": "Zapdos",
