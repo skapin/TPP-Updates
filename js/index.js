@@ -90,7 +90,7 @@ function ViewModel() {
                     self.party(json.party);
                     self.goal(json.goal);
                     self.badges(json.badges);
-                    if (self.mapURL != json.mapURL) {
+                    if (self.mapURL() != json.mapURL) {
                         self.mapURL(json.mapURL);
                         var map = document.getElementById('map');
                         if (map) {

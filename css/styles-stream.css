@@ -74,3 +74,12 @@
     margin-top: 5px;
     font-size: 14pt;
 }
+
+.navbar-text {
+  color: #999 !important;
+  transition: color 1s linear;
+}
+
+.navbar-text.updated {
+  color: #fff !important;
+}
