@@ -80,14 +80,6 @@
   ],
   "updates": [
     {
-      "time": 1393154472,
-      "title": "<p>Friendly Zubat has been taken down by enemy Zubat.</p>\n",
-      "category": "Battle",
-      "description": null,
-      "updater": "MrSymphony",
-      "mode": "anarchy"
-    },
-    {
       "time": 1393154367,
       "title": "<p><strong>Wild Zubat caught</strong></p>\n",
       "category": "Roster",
