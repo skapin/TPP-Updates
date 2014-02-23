@@ -50,18 +50,6 @@
   ],
   "party": [
     {
-      "species": "Gastly",
-      "name": "Gastly",
-      "nickname": "Rick Gastly",
-      "level": 22,
-      "moves": [
-        "Lick",
-        "Confuse Ray",
-        "Night Shade",
-        "- - -"
-      ]
-    },
-    {
       "species": "Lapras",
       "name": "AIIIIIIRRR",
       "nickname": "Air Jordan",
