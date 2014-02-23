@@ -76,7 +76,9 @@
       "name": "AIIIIIIRRR",
       "nickname": "Fresh Prince",
       "level": 20,
-      "moves": null
+      "moves": [
+        "Mist"
+      ]
     },
     {
       "species": "Venomoth",
