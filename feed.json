@@ -111,6 +111,14 @@
   ],
   "updates": [
     {
+      "time": 1393158750,
+      "title": "<p>Please use downa and such. That is all.</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
       "time": 1393158695,
       "title": "<p>For those of you curious, there's actually a minimum of 25 second STREAM delay (refreshing will reset it to ~25, you may have worse!) while the updater for Democracy updates at 20 (TWENTY) seconds! This means that you'll actually have to think twice ahead, which is difficult.</p>\n",
       "category": "Strategy",
