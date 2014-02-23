@@ -51,6 +51,14 @@
   "party": [],
   "updates": [
     {
+      "time": 1393164128,
+      "title": "<p>This is a test. Thank you.</p>\n",
+      "category": "Meta",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393163728,
       "title": "<p>Apologies, we HAVE Silph Scope.</p>\n",
       "category": "Items",
