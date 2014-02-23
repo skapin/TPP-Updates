@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393138754,
+      "title": "<p>In order to reach the Power Plant, we need to go up to the grassy area above the pkmn center. We can surf on the right there. See map here. http://pokeworld.herokuapp.com/rb/1#334,60</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393138717,
       "title": "<p>We heal, set our spawn point, and head back outside</p>\n",
       "category": "Travel",
