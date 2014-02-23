@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393143136,
+      "title": "<p>We are facing our first pokemon in the Power Factory! Magneton.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393143114,
       "title": "<p>We have entered the Power Factory! Here is a <a href=\"http://pokeworld.herokuapp.com/rb/83#4,35\">map</a></p>\n",
       "category": "Travel",
