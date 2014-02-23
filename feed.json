@@ -111,6 +111,14 @@
   ],
   "updates": [
     {
+      "time": 1393159438,
+      "title": "<p><em>*We have used Max Potion on Dux</em></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393159392,
       "title": "<p><strong>DUX HAS BEEN DEPOSITED</strong></p>\n",
       "category": "Roster",
