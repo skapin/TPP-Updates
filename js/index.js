@@ -18,6 +18,7 @@ function ViewModel() {
     self.goal = ko.observable();
     self.badges = ko.observableArray();
     self.time = ko.observable("time");
+    self.mapURL = ko.observable("https://pokeworld.herokuapp.com/rb/1");
 
     self.filtered = ko.computed(function() {
         var result = [];
@@ -89,6 +90,7 @@ function ViewModel() {
                     self.party(json.party);
                     self.goal(json.goal);
                     self.badges(json.badges);
+                    self.mapURL(json.mapURL);
                 } catch (e) {
                     self.error("Error getting latest news.");
                 }
