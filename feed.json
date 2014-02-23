@@ -75,7 +75,9 @@
       "name": "BKKBBBBCBB",
       "nickname": "Burger King",
       "level": 22,
-      "moves": null
+      "moves": [
+        "Tackle"
+      ]
     },
     {
       "species": "Ratticate",
