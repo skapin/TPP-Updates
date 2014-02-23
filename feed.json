@@ -1,7 +1,7 @@
 {
   "version": 7,
   "balance": 6195,
-  "goal": "Capture Zapdos at Power Plant",
+  "goal": "Get to Power Plant to catch Zapdos",
   "badges": [
     "boulder",
     "cascade",
@@ -45,6 +45,14 @@
     },
     {
       "name": "TM46 Psywave",
+      "count": 1
+    },
+    {
+      "name": "Master Ball",
+      "count": 1
+    },
+    {
+      "name": "HM04 Strength",
       "count": 1
     }
   ],
@@ -125,6 +133,321 @@
     }
   ],
   "updates": [
+    {
+      "time": 1393135822,
+      "title": "We look to Bird Jesus for inspiration, and promptly attempt to fly... over the ledge.",
+      "category": "Commentary",
+      "description": null,
+      "updater": "guilka"
+    },
+    {
+      "time": 1393134787,
+      "title": "Aaaaaand back down we go.",
+      "category": "Travel",
+      "description": "<p>After tasting freedom for a few minutes, we went back down below the ledge again. Back to the drawing board :(</p>\n",
+      "updater": "opalhat"
+    },
+    {
+      "time": 1393134607,
+      "title": "We beat the ledge!",
+      "category": "Travel",
+      "description": "<p>After a surprisingly short group effort in anarchy mode, we somehow made it past the ledge</p>\n",
+      "updater": "culex"
+    },
+    {
+      "time": 1393130153,
+      "title": "Crossing my fingers that this won't turn into a déjà vu of the last time we crossed paths with the ledges. Helix be with us. - the8bitremixguy",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_2Crazy4Nick"
+    },
+    {
+      "time": 1393129081,
+      "title": "POLL: Stay on the ledge, go to the rock tunnel, or move on to other things?",
+      "category": "Strategy",
+      "description": "<p><a href=\"http://strawpoll.me/1201663\">Let your voice be heard! What do you think Red should do?</a></p>\n",
+      "updater": "PinkSombrero"
+    },
+    {
+      "time": 1393128552,
+      "title": "We have been trying to cross ledge for over 2 hours now but morale is still high! Keep an eye out, we'll be polling on whether we should take the ledge route or the tunnel route again soon!",
+      "category": "Travel",
+      "description": null,
+      "updater": "PinkSombrero"
+    },
+    {
+      "time": 1393127618,
+      "title": "Made it about a quarter of the way across the ledge! I believe that's today's record!",
+      "category": "Travel",
+      "description": null,
+      "updater": "PinkSombrero"
+    },
+    {
+      "time": 1393126834,
+      "title": "The votes have been tallied: we remain on the ledge!",
+      "category": "Strategy",
+      "description": "<h1>TEAMLEDGE wins at 62 percent! Let's keep at it!</h1>\n",
+      "updater": "PinkSombrero"
+    },
+    {
+      "time": 1393126093,
+      "title": "POLL TO DECIDE PATH",
+      "category": "Strategy",
+      "description": "<p><a href=\"http://strawpoll.me/1201429\">Pick a path! Should we continue trying to make it across the ledge, or should we got through Lavender Town and the rock tunnel? You decide!</a></p>\n",
+      "updater": "PinkSombrero"
+    },
+    {
+      "time": 1393126047,
+      "title": "SO CLOSE",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393126040,
+      "title": "Ledge path seems to be winning",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393125769,
+      "title": "POLL TO DECIDE PATH",
+      "category": "Strategy",
+      "description": "<p><a href=\"http://strawpoll.me/1201429\">Pick a path! Should we continue trying to make it across the ledge, or should we got through Lavender Town and the rock tunnel? You decide!</a></p>\n",
+      "updater": "PinkSombrero"
+    },
+    {
+      "time": 1393125547,
+      "title": "It has been suggested that we could work our way to Lavender Town then proceed up through Rock Tunnel again. A possibility if Lord Helix does not approve of our fraternizing with ledges.",
+      "category": "Strategy",
+      "description": null,
+      "updater": "PinkSombrero"
+    },
+    {
+      "time": 1393125149,
+      "title": "Red attempting to break the world land speed record for not going anywhere",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393124779,
+      "title": "[UPDATE] For anyone just joining us, we are attempting to move East on Route 9 to reach the Power Plant. Ledges must be conquered.",
+      "category": "Commentary",
+      "description": null,
+      "updater": "Tyrrell"
+    },
+    {
+      "time": 1393124678,
+      "title": "we walked the entire lenght of the bottom",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393124411,
+      "title": "its like watching Red look for his glasses",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393124022,
+      "title": "not going anywhere fast",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393123609,
+      "title": "Red saved the game AGAIN!!",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393123093,
+      "title": "stuck under the ledge, Anarchy is still in charge",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393122889,
+      "title": "THE GAME HAS BEEN SAVED",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393122641,
+      "title": "Red takes a moment to almost save",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393122606,
+      "title": "so close to the ledge entry way",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393122526,
+      "title": "Red checks the SS Ticket for climbing advice",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393122462,
+      "title": "Took a couple steps onto the ledge, decided we weren't ready, and hopped off.",
+      "category": "Commentary",
+      "description": null,
+      "updater": "PinkSombrero"
+    },
+    {
+      "time": 1393122430,
+      "title": "Red once again tries to conquer the ledge...",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393122187,
+      "title": "Red is spending a lot of time fiddling with his menus instead of ledging",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393121913,
+      "title": "Almost there! And then....",
+      "category": "Commentary",
+      "description": "<p>A jump off</p>\n",
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393121597,
+      "title": "Red checks pokedex again, attempts to save, and then heads right... under the ledge",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393121306,
+      "title": "Scroll down to the bottom to read older updates, for when you want a recap.",
+      "category": "Commentary",
+      "description": null,
+      "updater": "opalhat"
+    },
+    {
+      "time": 1393121154,
+      "title": "This comment is just to show we can make this as long as we really could ever want guys and seriously I can't imagine ever writing anything longer than this this is just ridiculous",
+      "category": "Commentary",
+      "description": null,
+      "updater": "Tyrrell"
+    },
+    {
+      "time": 1393121007,
+      "title": "Can the ledge be done in Anarchy mode?",
+      "category": "Commentary",
+      "description": "<p>If you can dream, you can achive</p>\n",
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393120635,
+      "title": "Man i sure do love walking around ledges",
+      "category": "Commentary",
+      "description": null,
+      "updater": "AttackTheMoon"
+    },
+    {
+      "time": 1393119512,
+      "title": "On Route 9",
+      "category": "Travel",
+      "description": "<p>Ledge 2: Ledge Harder</p>\n",
+      "updater": "PinkSombrero"
+    },
+    {
+      "time": 1393119410,
+      "title": "Got past the tree",
+      "category": "Commentary",
+      "description": "<p>Now time for LEDGE</p>\n",
+      "updater": "opalhat"
+    },
+    {
+      "time": 1393119072,
+      "title": "Currently in Cerulean City",
+      "category": "Travel",
+      "description": "<p>Trying to cut our way to Route 9</p>\n",
+      "updater": "opalhat"
+    },
+    {
+      "time": 1393118545,
+      "title": "Double-checking surf",
+      "category": "Commentary",
+      "description": "<p>We wouldn't want Air Jordan to forget it</p>\n",
+      "updater": "SirCmpwn"
+    },
+    {
+      "time": 1393118288,
+      "title": "South of Celadon",
+      "category": "Travel",
+      "description": "<p>Trying to get into the Day Care again</p>\n",
+      "updater": "SirCmpwn"
+    },
+    {
+      "time": 1393115587,
+      "title": "Entered Saffaron City",
+      "category": "Travel",
+      "description": null,
+      "updater": "SirCmpwn"
+    },
+    {
+      "time": 1393115001,
+      "title": "Left the daycare, fell off the ledge",
+      "category": "Travel",
+      "description": "<p>Did not get around to depositing anyone</p>\n",
+      "updater": "SirCmpwn"
+    },
+    {
+      "time": 1393114834,
+      "title": "Stream entered anarchy mode",
+      "category": "Commentary",
+      "description": "<p>Nothing of value was accomplished</p>\n",
+      "updater": "SirCmpwn"
+    },
+    {
+      "time": 1393114025,
+      "title": "Red entered the daycare",
+      "category": "Travel",
+      "description": null,
+      "updater": "_2Crazy4Nick"
+    },
+    {
+      "time": 1393113974,
+      "title": "Stream entered Democracy mode",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_2Crazy4Nick"
+    },
+    {
+      "time": 1393113426,
+      "title": "Red vs. Wild Mankey, Red Wins",
+      "category": "Battle",
+      "description": "<p>Gloom switched in for Lapras, and takes out Mankey</p>\n",
+      "updater": "PinkSombrero"
+    },
+    {
+      "time": 1393112220,
+      "title": "Red vs wild Mankey, Red runs",
+      "category": "Battle",
+      "description": null,
+      "updater": "_2Crazy4Nick"
+    },
     {
       "time": 1393110455,
       "title": "South of Celadon",
