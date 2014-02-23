@@ -76,6 +76,14 @@
   ],
   "updates": [
     {
+      "time": 1393152076,
+      "title": "<p><strong>Our pokemon include AAEWWW and AAEWWWVV. Only.</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393151861,
       "title": "<p>We've added Twitch chat to the <a href=\"/stream\">stream page</a></p>\n",
       "category": "Meta",
