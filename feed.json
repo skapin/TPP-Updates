@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393146059,
+      "title": "<p>Commentary</p>\n",
+      "category": null,
+      "description": "<p>It's almost embarassing how little damage the voltorbs' selfdestructs do to Bird Jesus.</p>\n",
+      "updater": "Alex_Rose",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393146042,
       "title": "<p>A wild voltorb used Self-Destruct! It did 10 damage to Bird Jesus.</p>\n",
       "category": "Battle",
