@@ -101,7 +101,8 @@
       "nickname": "The Keeper",
       "level": 29,
       "moves": [
-        "Pound"
+        "Pound",
+        "Headbutt"
       ]
     }
   ],
