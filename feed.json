@@ -76,6 +76,14 @@
   ],
   "updates": [
     {
+      "time": 1393152412,
+      "title": "<p>Pokemon Center exited.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393152334,
       "title": "<p>We have re-entered the Poke Center!</p>\n",
       "category": "Travel",
