@@ -1,7 +1,7 @@
 {
   "version": 9,
   "balance": 3847,
-  "goal": "Rescue Deposited Pokemon & Items",
+  "goal": "Get to Cinnabar",
   "badges": [
     "boulder",
     "cascade",
@@ -12,14 +12,6 @@
   ],
   "inventory": [
     {
-      "name": "Helix Fossil",
-      "count": 1
-    },
-    {
-      "name": "Lift Key",
-      "count": 1
-    },
-    {
       "name": "S.S. Ticket",
       "count": 1
     },
@@ -28,57 +20,1439 @@
       "count": 1
     },
     {
-      "name": "Poke Flute",
-      "count": 1
-    },
-    {
       "name": "Super Rod",
       "count": 1
     },
     {
-      "name": "HM03 Surf",
+      "name": "Silph Scope",
       "count": 1
     },
     {
-      "name": "TM46 Psywave",
+      "name": "Lift Key",
       "count": 1
     },
     {
-      "name": "HM04 Strength",
-      "count": 1
-    },
-    {
-      "name": "Sliph Scope",
+      "name": "Helix Fossil",
       "count": 1
     }
   ],
   "party": [
     {
-      "species": "Farfetch'd",
-      "name": "Dux",
-      "nickname": "Slayer of Trees",
-      "level": 31,
+      "species": "Gastly",
+      "name": "Gastly",
+      "nickname": "Rick Gastly",
+      "level": 22,
       "moves": [
-        "Cut",
-        "Sand Attack",
-        "Fury Attack",
-        "Leer"
+        "Lick",
+        "Confuse Ray",
+        "Night Shade"
       ]
     },
     {
-      "species": "Zapdos",
-      "name": "AA-j",
-      "nickname": "Anarchy Jesus",
-      "level": 50,
+      "species": "Pidgeot",
+      "name": "aaabaaajss",
+      "nickname": "Bird Jesus",
+      "level": 59,
       "moves": [
-        "ThunderShock",
-        "Drill Peck",
-        "- - -",
-        "- - -"
+        "Mirror Move",
+        "Quick Attack",
+        "Sand-Attack",
+        "Whirlwind"
+      ]
+    },
+    {
+      "species": "Zubat",
+      "name": "ABB-??AAJ",
+      "nickname": "DashBat",
+      "level": 18,
+      "moves": [
+        "Leech Life",
+        "Supersonic",
+        "Bite"
+      ]
+    },
+    {
+      "species": "Lapras",
+      "name": "AIIIIIIRRR",
+      "nickname": "Fresh Prince",
+      "level": 20,
+      "moves": [
+        "Mist",
+        "Growl",
+        "Surf",
+        "Strength"
+      ]
+    },
+    {
+      "species": "Venomoth",
+      "name": "AATTVVV",
+      "nickname": "ATVenomoth",
+      "level": 33,
+      "moves": [
+        "Disable",
+        "Poison Poweder",
+        "Leech Life",
+        "Stun Spore"
+      ]
+    },
+    {
+      "species": "Drowzee",
+      "name": "DROWZEE",
+      "nickname": "The Keeper",
+      "level": 29,
+      "moves": [
+        "Pound",
+        "Headbutt",
+        "Disable",
+        "Confusion"
       ]
     }
   ],
   "updates": [
+    {
+      "time": 1393180768,
+      "title": "<p>Sorry about slowness, it's being worked on.</p>\n",
+      "category": "Meta",
+      "description": "<p>Just one guy here doing the technical stuff, and sometimes I have to sleep</p>\n",
+      "updater": "SirCmpwn",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393180628,
+      "title": "<p>Bloody Sunday Killcount: 12</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "Tyrrell",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393180407,
+      "title": "<p><strong>Back to Anarchy once more!</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393180344,
+      "title": "<p>As Anarchy gets closer as we're in the PC, one can only look to Helix for guidance and support</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393180295,
+      "title": "<p>It's not like we're getting tired of this. Success would be nice though</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393179493,
+      "title": "<p>Pokemon have been withdrawn. <strong>Current Team: Pidgeot, Gastly, Zubat, Lapras, Venomoth, Drowzee</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393179343,
+      "title": "<p>DashBat has been taken out!</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393178910,
+      "title": "<p>Bird Jesus has been withdrawn. Praise the Helix Fossil!</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393178718,
+      "title": "<p>Burger King has been stored, too. Down to last Pokemon which can't be stored</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393178687,
+      "title": "<p>a the Nidoran and the other Nidoran have been deposited!</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393178576,
+      "title": "<p>Zubat has been stored as well.</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393178489,
+      "title": "<p>Zapdos was deposited. Wow! Much Progress!</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393177611,
+      "title": "<p><strong>Democracy mode!</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "culex",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393177160,
+      "title": "<p>Gastly was withdrawn</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393177144,
+      "title": "<p>Red beomes aware that he cannot access the Pokémon Storage System through the flower pot</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393176947,
+      "title": "<p>Rhyhorn was deposited</p>\n",
+      "category": "Roster",
+      "description": "",
+      "updater": "_2Crazy4Nick",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393176785,
+      "title": "<p>Poke Flute, HM03 Surf and HM04 Strength were stored</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393176523,
+      "title": "<p>Venonat was withdrawn</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393176411,
+      "title": "<p>DigRat has been released. We cry in agony</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393176248,
+      "title": "<p>Nidorino -The Fonz- has been deposited</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393175548,
+      "title": "<p>Chat user Underwearrainbows wants us to  'GO BACK T O THE PC YOU FLIPPERS'</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393175418,
+      "title": "<p><strong>Anarchy mode activate</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393174877,
+      "title": "<p>We're informed that taking another Pokemon with us is not possible. Try anyway.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393174313,
+      "title": "<p><strong>Democracy mode!</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393174260,
+      "title": "<p>Guess who's back in the Poke Center?</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393173767,
+      "title": "<p>We left Poke Center once again! Fresh air, Ahh.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393173499,
+      "title": "<p><strong>We withdrew Nidoran!</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393172925,
+      "title": "<p>Note: Without DUX, there's no cut. That is all.</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393172856,
+      "title": "<p>Well! We're back from taking our break! We're in the Poke Center again. :) We <em>literally</em> wandered around the grass doing nothing. We're pretty legit!!</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393172391,
+      "title": "<p>Hi there! If you're just joining us now, we've successfully released <strong>11 ELEVEN</strong> Pokemon today! These incldue: 3 Venonats, 1 Exeggcute, 1 Paras, 1 Geodude, 3 NidoranM's and EVERYONE'S FAVORITE! xCabbage and Dux! I'm drowning in tears! :D!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393172247,
+      "title": "<p>We are now outside of the Poke Center, attempting to get some fresh air from our gambling addiction.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393172004,
+      "title": "<p><strong>Withdrew Silph Scope</strong></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393171996,
+      "title": "<p><strong>a</strong> has been withdrawn</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393171948,
+      "title": "<p>That is a total of <strong>11 Pokemon</strong> released now! TEARS OF TEARS!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393171929,
+      "title": "<p><strong>AAEWWW HAS BEEN RELEASED</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393171923,
+      "title": "<p><strong>ATV HAS BEEN DEPOSITED WITH 'H' (NIDORAN) BEING RELEASED</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393171891,
+      "title": "<p><strong>Silph Scope has been deposited!</strong></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393171758,
+      "title": "<p>Democracy is running out of time! It's &lt;&lt;| arrows for Anarchy!!!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393171733,
+      "title": "<p>Anddd the combo's too long and thus does not work correctly.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393171607,
+      "title": "<p>The mass population has given rise to the combo: 'b5a5downadown5a4' which, apparently, deposits Zubats!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393171337,
+      "title": "<p>We've exited the PC due to delay and overshooting 'b'. Anarchy votes are rolling in.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393170811,
+      "title": "<p>PC's turned on!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393170752,
+      "title": "<p><strong>DEMOCRACY!!</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393170048,
+      "title": "<p>We are still roaming the Poke Center, unhappy with our Pokemon so still trying to trade them in for something better. [We're addicted to gambling!]</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393169599,
+      "title": "<p>We are trying to teach Nidorino Surf. The sound of rejection is terrifying.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393169317,
+      "title": "<p><strong>WITHDREW ZUBAT</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393169286,
+      "title": "<p><strong>WE ARE NOW IN ANARCHY.</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393169165,
+      "title": "<p>There's a delay! Vote for the NEXT input (or even the next one after that! Delay's pretty long yo!)</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393169060,
+      "title": "<p>And then we overshot and exited the PC. Anarchy votes are piling in, but we're activating the PC again!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393168983,
+      "title": "<p><strong>We have deposited Lapras.</strong> Yay for over-shooting while using A!</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393168756,
+      "title": "",
+      "category": "Meta",
+      "description": "<p>If you receive an image that depicts tags such as <b></b> and such, it is because you are using Light Version. Please use the regular version <a href=\"http://tpp.aninext.tv/\">here</a></p>\n",
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393168534,
+      "title": "",
+      "category": "Meta",
+      "description": "<p>IT HAS BEEN BROUGHT TO MY ATTENTION THAT THIS UPDATER HAS TROUBLE WITH LARGE TRAFFIC- We are noting that now! Remember, this updater is <strong>for you guys</strong> so feel free to voice your opinions. Thanks!</p>\n",
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393168343,
+      "title": "<p>Shout-out + Thank you to /u/Mindez for supplying <a href=\"http://puu.sh/77wwN.png\">this link</a>. It's very helpful!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393168252,
+      "title": "<p><strong>Withdrew Super Rod.</strong></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393168218,
+      "title": "<p><strong>Withdraw S. S. Ticket.</strong></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393168201,
+      "title": "<p><strong>WE WITHDREW HELIX FOSSIL!</strong> Lord be praised and shine your rock upon my bodeth.</p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393167994,
+      "title": "<p><strong>ZAPDOS HAS BEEN WITHDRAWN!!!</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393167912,
+      "title": "<p><strong>AEWWWWVV (Rhyhorn) has been Withdrawn!</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393167690,
+      "title": "<p>And we've overshot <em>again</em> and missed AA-j (Zapdos). We're now hovering over Zubat.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393167525,
+      "title": "<p>We've just exited the PC by over-shooting input 'b'. Democracy, you're running out of time! Anarchy votes are coming in.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393167304,
+      "title": "<p><strong>AAAAAAAAAA has been withdrawn!</strong> That's a Nidorino.</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393167241,
+      "title": "<p>Oh god, we're overshooting BAD. Instead of Zapdos, we kept doing donw onto 'AAAAAAAAA'!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393167159,
+      "title": "<p>We have 3 pokemon slots available. FYI!</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393166923,
+      "title": "<p>We have reached the PC with Democracy! Remember, time is limited. Anarchy will most likely prevail as time goes on. Tick <em>tock</em> Tick <em>tock</em>!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393166767,
+      "title": "<p><strong>We are in Democracy now!</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393166684,
+      "title": "<p>Let the bodies hit the floor... Let the bodies be released... :C</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393166536,
+      "title": "<p>Hi! If you're joining us now, here's a friendly reminder that we just released <strong>9</strong> Pokemon! Which are: 3 Venonats, 1 Paras, 1 Exeggcute, 1 NidoranM, 1 DUX (CRY), 1 xCabbage (TEARS0, and 1 Geodude (eh)! Shed those tears! :D!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393166298,
+      "title": "<p><strong>BIRD JESUS AND DASH BAT DEPOSITED</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393166257,
+      "title": "<p><strong>Geodude was released as well.</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393166207,
+      "title": "<p><strong>DUX HAS BEEN RELEASED OUT. BYE DUX</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393165978,
+      "title": "<p><strong>Gastly has been deposited!</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393165932,
+      "title": "<p><strong>DIG RAT HAS BEEN DEPOSITED. DROWZEE HAS BEEN WITHDRAWN.</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393165858,
+      "title": "<p><strong>Lift Key, Card Key were obtained!</strong></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393165849,
+      "title": "<p><strong>Burger King was DEPOSITED, ATV Obtained!</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393165601,
+      "title": "<p><strong><a href=\"http://puu.sh/77sX1.png\">Here</a></strong> is a link to the current Pokemon. Please note that xCabbage has been released. Tears were shed.</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393165506,
+      "title": "<p>We are <em>still</em> in the Poke Center. We're still thirsty for blood! Nomnomnom.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393164658,
+      "title": "<p>Fun fact! Up to now, we have released a total of <strong>7</strong> Pokemon! They are: xCabbage, a (Venonat), AIA (Exeggcute), AAA (Paras), B-!) (Venonat), Venonat (Venonat), and NidoranM(NidoranM). Thank you for your sadness!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393164384,
+      "title": "<p><strong>xCabbage HAS BEEN RELEASED FOREVER. HE'S GONE FOREVER</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393164338,
+      "title": "<p><strong>HM03 GET, POKE FLUTE GET, HM04 GET! (Get meaning Withdrawn)</strong></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393164307,
+      "title": "<p>We left then re-entered the Poke Center. Oh boy...</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393163728,
+      "title": "<p>Apologies, we HAVE Silph Scope.</p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393163369,
+      "title": "<p><strong>WE GOT BIRD JESUS BACK!!</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393163356,
+      "title": "<p><strong>Silph Scope, HM03 have been withdrawn! HM04 has been deposited along with LIFT and CARD Key and HELIX FOOSSIL(OMFG) AND SS TICKET AND SUPER ROD (WTF) AND HM01 (OMG) AND SILPH SCOPE WE LOST EVERYTHING</strong></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393163322,
+      "title": "<p><strong>LAPRAS HAS BEEN WITHDRAWN</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393163311,
+      "title": "<p><strong>ABB-??AAJ AND GASTLY HAVE BEEN WITHDRAWN</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393163089,
+      "title": "<p><strong>Nidoran has been deposited</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393163018,
+      "title": "<p>Our current pokemon are BBKBBBKCB, DigRat and Nidoran! Hi BigDig.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393162975,
+      "title": "<p><strong>We have deposited Zapdos. Riot.</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393162931,
+      "title": "<p><strong>a have been deposited along with H. lol these names.</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393162834,
+      "title": "<p><strong>BBKBBBKBC something has been withdrawn</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393162783,
+      "title": "<p><strong>AAEWW has been withdrawn</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393162765,
+      "title": "<p><strong>Silph Scope, Poke Flute have been deposited</strong></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393162707,
+      "title": "<p><strong>Nidoran has been released as well!</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393162694,
+      "title": "<p><strong>ZUBAT, AAAAAAA, HAVE BEEN DEPOSITED WITH NIDORAN WITHDRAWN AND VENONAT HAS BEEN RELEASED.</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393162171,
+      "title": "<p>AAA was Paras. Bye Paras!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393162098,
+      "title": "<p><strong>SS TICKET, HM01, AND SUPER ROD HAVE BEEN WITHDRAWN.</strong></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393162080,
+      "title": "<p><strong>AAA HAS BEEN RELEASED</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393162014,
+      "title": "<p>AIA was our Exeggcute</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393161888,
+      "title": "<p><strong>AIA HAS BEEN RELEASED</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393161631,
+      "title": "<p>In case you are wondering, for those who are joining us now, we now have none of our original Pokemon in our team!! Yaaayyy~.... :C</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393161568,
+      "title": "<p><strong>WITHDRAWN HELIX FOSSIL!</strong></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393161513,
+      "title": "<p><strong>Withdrew H</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393161404,
+      "title": "<p><strong>RELEASED B-!)</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393161394,
+      "title": "<p><strong>Deposited Geodude</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393161237,
+      "title": "<p>Hi! If you're just joining us now, America, please note that we have lost all of our valuable pokemon. They are in a box. On the bright side, we have Zapdos in our roster! :D!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393160772,
+      "title": "<p><strong>Pokemon a has been withdrawn!</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393160651,
+      "title": "<p>As Red stumbles around the Pokecenter, it's 8am and I need to go to bed. I'll be back later today, but MrSymphony and others will keep updates coming in the mean time. It's been so fun being able to do this :D May Helix be with us all in these troubling times...</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393160493,
+      "title": "<p><strong>TM46 (Psywave) HAS BEEN THROWN AWAY</strong></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393159943,
+      "title": "<p><strong>TM46 has been deposited, and the Lift Key. And Helix. And SS Ticket........ And Hm01... And Super Rod.</strong></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393159898,
+      "title": "<p>The Fonz is out!</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393159867,
+      "title": "<p><strong>WE HAVE TAKEN OUT AAAAAAAA</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393159839,
+      "title": "<p>We're getting our PokeDex rated! :-) Our rating, 'We still need more Pokemon!!'</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393159784,
+      "title": "<p><strong>BOX 1 IS FULL. WE CANNOT DEPOSIT ANYMORE.</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393159752,
+      "title": "<p><strong>WE HAVE STORED AEWWWVV</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393159721,
+      "title": "<p>As we wander around the Poke Center, one cannot help but notice it looks like Red's walking on a giant paper towel. Cannot unsee.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393159640,
+      "title": "",
+      "category": "Meta",
+      "description": "<p>Please note, if you see <a href=\"http://i.imgur.com/WFsGlrD.png\">something like this</a> at the moment, apologies! We are unable to control that but will get it fixed ASAP. Thank you for your patience.</p>\n",
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393159446,
+      "title": "<p><strong>ZAPDOS HAS LEARNED TAKE DOWN</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393159438,
+      "title": "<p><em>*We have used Max Potion on Dux</em></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393159392,
+      "title": "<p><strong>DUX HAS BEEN DEPOSITED</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393159267,
+      "title": "<p>And <a href=\"http://puu.sh/77pA2.jpg\">away from the PC</a> as we all take a breather!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393159166,
+      "title": "<p><strong>ANARCHY BACK IN PLACE AT THE PC.</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393159128,
+      "title": "<p>This might get ugly with Anarchy about to take over...</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393159005,
+      "title": "<p><a href=\"http://puu.sh/77poS.jpg\">That Teamwork</a></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393158961,
+      "title": "<p>Guys, with Anarchy 85% of the way there, I've been receiving multiple PMs about how Box 1 is full. While I cannot confirm that, if it is true... I'm sorry. I'm so, so sorry.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393158777,
+      "title": "<p>TIL Twitch Plays Pokemon has a hard time thinking a move or two ahead XD</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393158750,
+      "title": "<p>Please use downa and such. That is all.</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393158695,
+      "title": "<p>For those of you curious, there's actually a minimum of 25 second STREAM delay (refreshing will reset it to ~25, you may have worse!) while the updater for Democracy updates at 20 (TWENTY) seconds! This means that you'll actually have to think twice ahead, which is difficult.</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393158554,
+      "title": "<p>For those who want to join along, here's the <a href=\"http://puu.sh/77p4F.jpg\">suspense</a>. Pidgeot is near the bottom, thank gosh!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393158518,
+      "title": "<p>WE'RE HOVERING OVER RELEASE PKMN. NONONO.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393158430,
+      "title": "<p>We're at Deposit!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393158292,
+      "title": "<p>We tried to withdraw but we can't because our party is full!!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393158143,
+      "title": "<p>The worst part of this all is how slowly, Anarchy is winning back. It's a race against time!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393157993,
+      "title": "<p>WE'RE IN BOX 1!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393157911,
+      "title": "<p>We're in the Change Box settings now.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393157882,
+      "title": "<p>While this is going on, one cannot help but to notice the line getting closer to anarchy...</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393157706,
+      "title": "<p>We're back into BILL's PC! This time we'll get it for sure, right..?</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393157662,
+      "title": "<p>We accidnetly pressed down twice due to lag, and have left BILL's PC.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393157607,
+      "title": "<p>For those wanting to see the options, <a href=\"http://puu.sh/77op5.jpg\">here's the main menu for PC</a>!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393157436,
+      "title": "<p>We're changing boxes, but we didn't press up! So we've changed it to Box 2, which is what we're on.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393157303,
+      "title": "<p>We're going down! Heading towards Change Box!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393157240,
+      "title": "<p>down3 has been used to go to Change Box, but unfortunately we used \"a\" instead!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393157120,
+      "title": "<p>We're in BILL's PC now!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393157034,
+      "title": "<p>At the PC in democracy mode. As I said before, this could go very well or VERY badly.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393157030,
+      "title": "<p>Here we go! We've entered the PC using Democracy. REMEMBER THE LAG!!</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393156801,
+      "title": "<p><strong>Democracy has assumed control. Dome be with us.</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "guilka",
+      "mode": "democracy"
+    },
+    {
+      "time": 1393156550,
+      "title": "<p><strong>Withdrew AAEWWW</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393156256,
+      "title": "<p>Very close, ~78% to Democracy. We've been here before, do the Democrats have the final push though?</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393156036,
+      "title": "<p>Democracy seems to be making a strong push in the chat at the moment</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393155677,
+      "title": "<p><strong>AAEWWW has been deposited in Box 2.</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393155521,
+      "title": "<p>Don't forget, we still need to change boxes to get the rest of our team out</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393155450,
+      "title": "<p>We seem to be caught between moving on without our surfing/strength pokemon and going back to the PC, but this is leaving us a bit directionless. We eventually need to end up in Cinnabar.</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "guilka_",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393155297,
+      "title": "<p>Back at the PC. Helix bless us....</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393155235,
+      "title": "<p>Back in the Poke Center again. I can already feel my heart rate and blood pressure rising...</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393155100,
+      "title": "<p>After we buffer the lag with a look at our Pokedex, we exit rock tunnel and successfully head left away from the entrance!</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393154991,
+      "title": "<p>However, we find ourselves back down in the tunnel once again</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393154933,
+      "title": "<p>We are flirting with the ladder/entrance to the tunnel currently, entering and exiting</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393154787,
+      "title": "<p>We run away, however. We're very close to the ladder out</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393154731,
+      "title": "<p>AEWWWVV against level 17 Geodude. Dux comes out now.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393154662,
+      "title": "<p>We are now out of Great Balls.</p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393154635,
+      "title": "<p>We threw TWO Great Balls at a wild Onix, both have failed. We have 0 Great Balls.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393154617,
+      "title": "<p>/u/xylempl has released an extention for getting updates to your desktop!</p>\n",
+      "category": "Meta",
+      "description": "<p><a href=\"https://chrome.google.com/webstore/detail/twitch-plays-pokemon-upda/blojofehohbmggeafidakppgcdiilocd\">Get it here!</a></p>\n",
+      "updater": "SirCmpwn",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393154545,
+      "title": "<p>An enemy Zubat was defeated by AEWWWWVV, but it defeated our Zubat and AAEWWW beforehand.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393154367,
+      "title": "<p><strong>Wild Zubat caught</strong></p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393154362,
+      "title": "<p>AAEWWW vs wild Zubat! Red uses a great ball!</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393154310,
+      "title": "<p>Red vs wild Machop! AAEWWW uses two Horn Attacks to beat 'em down!</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393154275,
+      "title": "<p>Red vs wild Geodude, Geodude caught</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "SirCmpwn",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393154260,
+      "title": "<p>Caught a Geodude</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "SirCmpwn",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393154237,
+      "title": "<p>WE THREW A GREAT BALL.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
     {
       "time": 1393154198,
       "title": "<p>We need to get out of Rock Tunnel to retrieve our Pokemon from the PC.</p>\n",
