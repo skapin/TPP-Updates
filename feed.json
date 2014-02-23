@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393143700,
+      "title": "<p>Oh no! Lapras is facing a voltorb and has 21 hp left. We couldn't escape.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393143594,
       "title": "<p>Dux has defeated a Voltorb.</p>\n",
       "category": "Battle",
