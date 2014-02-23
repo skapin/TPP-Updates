@@ -76,6 +76,13 @@
         "- - -",
         "- - -"
       ]
+    },
+    {
+      "species": "Geodude",
+      "name": "Geodude",
+      "nickname": "Geodude",
+      "level": 17,
+      "moves": null
     }
   ],
   "updates": [
