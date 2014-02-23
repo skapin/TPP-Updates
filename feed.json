@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393146617,
+      "title": "<p>Hyper Potion used on ATV.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393146567,
       "title": "<p>Apparently you can't fish a Zapdos with a Super Rod.</p>\n",
       "category": "Battle",
