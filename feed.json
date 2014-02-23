@@ -134,6 +134,102 @@
   ],
   "updates": [
     {
+      "time": 1393138818,
+      "title": "",
+      "category": "Strategy",
+      "description": "<p>In order to reach the Power Plant, we need to go up to the grassy area above the Pokemon Center. We can surf on the right there. See map <a href=\"http://pokeworld.herokuapp.com/rb/1#334,60\">here</a></p>\n",
+      "updater": "SirCmpwn",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393138787,
+      "title": "<p>And back into the Poke Center again.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393138717,
+      "title": "<p>We heal, set our spawn point, and head back outside</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393138675,
+      "title": "<p><strong>Into the Poke Center we go.</strong> This might not end good. May Helix be with us in this time of trouble.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393138670,
+      "title": "<p>Pokemon Center by Rock Tunnel has been entered in order to heal pokemon. Helix stay our hand from the PC.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393138571,
+      "title": "<p><strong>[RECAP] Just to catch everyone up, we have passed the trial of the ledge!</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393138335,
+      "title": "<p>We are right on the edge of the Rock Tunnel entrance. However, we need to keep going south to get to the Power Plant</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393138300,
+      "title": "<p>[A] It appears Red wanted a glance into Rock Tunnel. We need to surf to get to the Power Plant.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393138181,
+      "title": "<p>As we head eastward away from Route 9, we encounter a wild Spearow. We run away. Power station is getting closer and closer. We encounter another spearow, we run again</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393138118,
+      "title": "<p>[A] We have made it past the ledge! Red is celebrating with some bird (Spearow) watching.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393137793,
+      "title": "<p>Wild pokemon battle on the north half of Route 9. We promptly run away</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393137707,
+      "title": "<p>We got past the ledge! Amazing! Now let's see if we can fully get past the entire area.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393137211,
       "title": "<p>Apparently there are streamers attempting to smite our savior Bird Jesus. Be strong, children of the helix.</p>\n",
       "category": "Commentary",
