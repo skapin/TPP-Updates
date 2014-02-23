@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393143228,
+      "title": "<p>We are now facing Magnemite!</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393143187,
       "title": "<p>We ran from Magneton.</p>\n",
       "category": "Battle",
