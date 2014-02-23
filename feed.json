@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393141564,
+      "title": "<p>We are now facing the sea and are attempting to surf!</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393141322,
       "title": "<p>Bird Jesus has defeated a wild Spearow!</p>\n",
       "category": "Battle",
