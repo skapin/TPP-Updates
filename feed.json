@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393138300,
+      "title": "<p>[A] It appears Red wanted a glance into Rock Tunnel. We need to surf to get to the Power Plant.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393138181,
       "title": "<p>As we head eastward away from Route 9, we encounter a wild Spearow. We run away. Power station is getting closer and closer. We encounter another spearow, we run again</p>\n",
       "category": "Battle",
