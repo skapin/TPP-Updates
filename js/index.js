@@ -36,7 +36,7 @@ function ViewModel() {
     }, self);
 
     self.recentUpdates = ko.computed(function() {
-        return self.filtered().slice(0, 10);
+        return self.filtered().slice(0, 5);
     }, self);
 
     self.first = ko.computed(function() {
