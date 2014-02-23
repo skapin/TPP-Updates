@@ -89,6 +89,14 @@
   ],
   "updates": [
     {
+      "time": 1393177611,
+      "title": "<p><strong>Democracy mode!</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "culex",
+      "mode": "democracy"
+    },
+    {
       "time": 1393177160,
       "title": "<p>Gastly was withdrawn</p>\n",
       "category": "Roster",
