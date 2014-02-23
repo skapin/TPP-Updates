@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393144935,
+      "title": "<p>We are <a href=\"http://pokeworld.herokuapp.com/rb/83#38,14\">here now!</a> I'm getting nervous...</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393144884,
       "title": "<p>We have Dux, Abba, The Keeper, and ATVenomoth left. All full health but Abba is 129/190.</p>\n",
       "category": "Roster",
