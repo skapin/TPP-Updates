@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393143594,
+      "title": "<p>Dux has defeated a Voltorb.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393143544,
       "title": "<p>For AIR, Mist has replaced Growl!</p>\n",
       "category": "Roster",
