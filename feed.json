@@ -54,18 +54,6 @@
   ],
   "party": [
     {
-      "species": "Farfetch'd",
-      "name": "Dux",
-      "nickname": "Slayer of Trees",
-      "level": 31,
-      "moves": [
-        "Cut",
-        "Sand Attack",
-        "Fury Attack",
-        "Leer"
-      ]
-    },
-    {
       "species": "Zapdos",
       "name": "AA-j",
       "nickname": "Anarchy Jesus",
