@@ -80,6 +80,14 @@
   ],
   "updates": [
     {
+      "time": 1393154229,
+      "title": "<p>Facing a wild Geodude!</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393154198,
       "title": "<p>We need to get out of Rock Tunnel to retrieve our Pokemon from the PC.</p>\n",
       "category": "Strategy",
