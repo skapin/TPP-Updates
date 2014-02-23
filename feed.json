@@ -55,6 +55,14 @@
   "party": [],
   "updates": [
     {
+      "time": 1393154019,
+      "title": "<p>We are facing a wild Zubat. AAEWWW is out fighting.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393153725,
       "title": "<p>This is turning into a never-ending nightmare...</p>\n",
       "category": "Commentary",
