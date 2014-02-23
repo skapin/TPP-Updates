@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393143438,
+      "title": "<p>AIR has defeated a Pikachu!</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393143329,
       "title": "<p>We're facing a Pikachu now! Cute.</p>\n",
       "category": "Battle",
