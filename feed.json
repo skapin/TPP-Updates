@@ -65,7 +65,9 @@
       "name": "AIIIIIIRRR",
       "nickname": "Air Jordan",
       "level": 20,
-      "moves": null
+      "moves": [
+        "Mist"
+      ]
     },
     {
       "species": "Pidgeot",
