@@ -79,7 +79,8 @@
       "nickname": "All Terrain Venomoth",
       "level": 33,
       "moves": [
-        "Disable"
+        "Disable",
+        "Poison Powder"
       ]
     }
   ],
