@@ -104,6 +104,13 @@
       "nickname": "All-Terrain Vehicle",
       "level": 33,
       "moves": null
+    },
+    {
+      "species": "Drowzee",
+      "name": "Drowzee",
+      "nickname": "The Keeper",
+      "level": 29,
+      "moves": null
     }
   ],
   "updates": [
