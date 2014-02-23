@@ -78,7 +78,9 @@
       "name": "AATTVVV",
       "nickname": "All Terrain Venomoth",
       "level": 33,
-      "moves": null
+      "moves": [
+        "Disable"
+      ]
     }
   ],
   "updates": [
