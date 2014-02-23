@@ -42,7 +42,9 @@
       "name": "Gastly",
       "nickname": "Rick Gastly",
       "level": 22,
-      "moves": null
+      "moves": [
+        "Lick"
+      ]
     },
     {
       "species": "Pidgeot",
