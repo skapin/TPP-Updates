@@ -100,7 +100,9 @@
       "name": "DROWZEE",
       "nickname": "The Keeper",
       "level": 29,
-      "moves": null
+      "moves": [
+        "Pound"
+      ]
     }
   ],
   "updates": [
