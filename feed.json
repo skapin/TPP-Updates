@@ -111,6 +111,14 @@
   ],
   "updates": [
     {
+      "time": 1393158695,
+      "title": "<p>For those of you curious, there's actually a minimum of 25 second STREAM delay (refreshing will reset it to ~25, you may have worse!) while the updater for Democracy updates at 20 (TWENTY) seconds! This means that you'll actually have to think twice ahead, which is difficult.</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
       "time": 1393158554,
       "title": "<p>For those who want to join along, here's the <a href=\"http://puu.sh/77p4F.jpg\">suspense</a>. Pidgeot is near the bottom, thank gosh!</p>\n",
       "category": "Commentary",
