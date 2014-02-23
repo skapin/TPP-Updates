@@ -76,6 +76,14 @@
   ],
   "updates": [
     {
+      "time": 1393151861,
+      "title": "<p>We've added Twitch chat to the <a href=\"/stream\">stream page</a></p>\n",
+      "category": "Meta",
+      "description": "<p>Refresh the page to update, if you haven't already</p>\n",
+      "updater": "SirCmpwn",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393151713,
       "title": "<p>Withdrawn AAEEWWWW</p>\n",
       "category": "Roster",
