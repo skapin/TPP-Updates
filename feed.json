@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393141647,
+      "title": "<p>Please be careful not to drop the Master Ball while pressing start. :C</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393141579,
       "title": "<p>New live stream page</p>\n",
       "category": "Meta",
