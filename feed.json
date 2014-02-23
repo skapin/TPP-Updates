@@ -96,7 +96,9 @@
       "name": "A",
       "nickname": "A",
       "level": 22,
-      "moves": null
+      "moves": [
+        "Tackle"
+      ]
     }
   ],
   "updates": [
