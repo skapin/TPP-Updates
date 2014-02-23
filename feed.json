@@ -93,6 +93,13 @@
       "nickname": "Anarchy Jesus",
       "level": 50,
       "moves": null
+    },
+    {
+      "species": "Zubat",
+      "name": "Zubat",
+      "nickname": "Zubat",
+      "level": 16,
+      "moves": null
     }
   ],
   "updates": [
