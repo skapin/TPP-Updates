@@ -110,6 +110,14 @@
   ],
   "updates": [
     {
+      "time": 1393181402,
+      "title": "<p>We are now in Rock Tunnel.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393180768,
       "title": "<p>Sorry about slowness, it's being worked on.</p>\n",
       "category": "Meta",
