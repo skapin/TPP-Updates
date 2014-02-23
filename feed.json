@@ -52,18 +52,7 @@
       "count": 1
     }
   ],
-  "party": [
-    {
-      "species": "Zapdos",
-      "name": "AA-j",
-      "nickname": "Anarchy Jesus",
-      "level": 50,
-      "moves": [
-        "ThunderShock",
-        "Drill Peck"
-      ]
-    }
-  ],
+  "party": [],
   "updates": [
     {
       "time": 1393153725,
