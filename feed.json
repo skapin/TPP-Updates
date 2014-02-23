@@ -94,7 +94,9 @@
       "name": "AEWWWWVV",
       "nickname": "AEWWWVV",
       "level": 26,
-      "moves": null
+      "moves": [
+        "Horn Attack"
+      ]
     },
     {
       "species": "Venonat",
