@@ -48,7 +48,15 @@
       "count": 1
     }
   ],
-  "party": [],
+  "party": [
+    {
+      "species": "Ratticate",
+      "name": "AAJST(????",
+      "nickname": "BigDig",
+      "level": 29,
+      "moves": null
+    }
+  ],
   "updates": [
     {
       "time": 1393163089,
