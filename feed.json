@@ -111,6 +111,14 @@
   ],
   "updates": [
     {
+      "time": 1393156801,
+      "title": "<p><strong>Democracy has assumed control. Dome be with us.</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "guilka",
+      "mode": "democracy"
+    },
+    {
       "time": 1393156550,
       "title": "<p><strong>Withdrew AAEWWW</strong></p>\n",
       "category": "Roster",
