@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393146042,
+      "title": "<p>A wild voltorb used Self-Destruct! It did 10 damage to Bird Jesus.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393145905,
       "title": "<p>C'mon guys, we're so close! We can do it!</p>\n",
       "category": "Commentary",
