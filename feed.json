@@ -120,6 +120,14 @@
   ],
   "updates": [
     {
+      "time": 1393172004,
+      "title": "<p><strong>Withdrew Silph Scope</strong></p>\n",
+      "category": "Items",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393171996,
       "title": "<p><strong>a</strong> has been withdrawn</p>\n",
       "category": "Roster",
