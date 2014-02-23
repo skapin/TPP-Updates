@@ -85,7 +85,9 @@
       "name": "AAJST(????",
       "nickname": "DigRat",
       "level": 29,
-      "moves": null
+      "moves": [
+        "Dig"
+      ]
     },
     {
       "species": "Zubat",
