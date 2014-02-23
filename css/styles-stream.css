@@ -59,7 +59,9 @@
 }
 
 .time {
-    margin-left: 290px;
+    position: absolute;
+    left: 297px;
+    top: 40px;
 }
 
 .switch {
@@ -75,11 +77,6 @@
     font-size: 14pt;
 }
 
-.navbar-text {
+h4.navbar-text {
   color: #999 !important;
-  transition: color 1s linear;
-}
-
-.navbar-text.updated {
-  color: #fff !important;
 }
