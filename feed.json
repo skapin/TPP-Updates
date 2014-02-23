@@ -82,7 +82,9 @@
       "name": "AAEWWW",
       "nickname": "AAEWWW",
       "level": 24,
-      "moves": null
+      "moves": [
+        "Focus Energy"
+      ]
     },
     {
       "species": "Ryhorn",
