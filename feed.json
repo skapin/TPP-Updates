@@ -97,7 +97,8 @@
       "nickname": "A",
       "level": 22,
       "moves": [
-        "Tackle"
+        "Tackle",
+        "Disable"
       ]
     }
   ],
