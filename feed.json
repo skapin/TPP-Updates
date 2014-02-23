@@ -49,7 +49,9 @@
       "name": "aaabaaajss",
       "nickname": "Bird Jesus",
       "level": 59,
-      "moves": null
+      "moves": [
+        "Mirror Move"
+      ]
     },
     {
       "species": "Zubat",
