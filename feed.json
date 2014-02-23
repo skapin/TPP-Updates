@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393143031,
+      "title": "<p>We have landed onto the island for the <a href=\"http://pokeworld.herokuapp.com/rb/1#334,89\">Power Factory</a>!</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393142989,
       "title": "<p>Hearing the music for surf is so refreshing.</p>\n",
       "category": "Commentary",
