@@ -52,7 +52,15 @@
       "count": 1
     }
   ],
-  "party": [],
+  "party": [
+    {
+      "species": "Farfetch'd",
+      "name": "Dux",
+      "nickname": "Slayer of Trees",
+      "level": 31,
+      "moves": null
+    }
+  ],
   "updates": [
     {
       "time": 1393154031,
