@@ -103,11 +103,15 @@ function ViewModel() {
                     }
                 } catch (e) {
                     self.error("Error getting latest news.");
+                } finally {
+                    setTimeout(getUpdates, update_interval);
                 }
             };
             xhr.send();
-        } catch (ex) { console.log("Error updating: " + ex); }
-        setTimeout(getUpdates, update_interval);
+        } catch (ex) {
+            console.log("Error updating: " + ex);
+            setTimeout(getUpdates, update_interval);
+        }
     };
     getUpdates();
 
