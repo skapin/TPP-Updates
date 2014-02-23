@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393143114,
+      "title": "<p>We have entered the Power Factory! Here is a <a href=\"http://pokeworld.herokuapp.com/rb/83#4,35\">map</a></p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393143081,
       "title": "<p>All this progress came a bit quickly for Red, so he had to take text speed down to medium.</p>\n",
       "category": "Commentary",
