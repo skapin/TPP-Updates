@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393146224,
+      "title": "<p>Avoid pressing right at all costs once we near Zapdos.</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393146200,
       "title": "<p>Abba OHKO's a voltorb.</p>\n",
       "category": "Battle",
