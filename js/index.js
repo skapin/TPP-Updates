@@ -90,7 +90,13 @@ function ViewModel() {
                     self.party(json.party);
                     self.goal(json.goal);
                     self.badges(json.badges);
-                    self.mapURL(json.mapURL);
+                    if (self.mapURL != json.mapURL) {
+                        self.mapURL(json.mapURL);
+                        var map = document.getElementById('map');
+                        if (map) {
+                            map.src = map.src;
+                        }
+                    }
                 } catch (e) {
                     self.error("Error getting latest news.");
                 }
