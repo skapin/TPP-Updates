@@ -54,18 +54,6 @@
   ],
   "party": [
     {
-      "species": "Nidoran",
-      "name": "AAEWWW",
-      "nickname": "AAEWWW",
-      "level": 24,
-      "moves": [
-        "Focus Energy",
-        "Poison Sting",
-        "Horn Attack",
-        "Tackle"
-      ]
-    },
-    {
       "species": "Venonat",
       "name": "A",
       "nickname": "A",
