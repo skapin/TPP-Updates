@@ -54,18 +54,6 @@
   ],
   "party": [
     {
-      "species": "Farfetch'd",
-      "name": "Dux",
-      "nickname": "Slayer of Trees",
-      "level": 31,
-      "moves": [
-        "Cut",
-        "Sand Attack",
-        "Leer",
-        "Fury Attack"
-      ]
-    },
-    {
       "species": "Venomoth",
       "name": "AATTVVV",
       "nickname": "All Terrain Venomoth",
