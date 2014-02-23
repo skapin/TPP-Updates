@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393148453,
+      "title": "<p>We are now in the Poke Center.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393148417,
       "title": "<p><strong>We have been defeated!</strong> We are whisked to the Pokemon Center outside Rock Tunnel.</p>\n",
       "category": "Travel",
