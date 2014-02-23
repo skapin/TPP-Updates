@@ -1,7 +1,7 @@
 {
   "version": 8,
   "balance": 6195,
-  "goal": "Surf to the Power Plant and capture Zapdos",
+  "goal": "Catch Zapdos while in the [Power Factory](http://pokeworld.herokuapp.com/rb/83#4,35)!",
   "badges": [
     "boulder",
     "cascade",
