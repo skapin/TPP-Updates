@@ -134,11 +134,51 @@
   ],
   "updates": [
     {
-      "time": 1393141433,
+      "time": 1393142029,
+      "title": "<p>We were able to successfully cut 5 times, yet are unable to surf once. Still attempting.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393141889,
+      "title": "<p>We almost surfed, but we were facing the land instead of the water :(</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393141781,
+      "title": "<p>Bulbasaur offers advice on surfing. Too bad we can't understand it.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393141647,
+      "title": "<p>Please be careful not to drop the Master Ball while pressing start. :C</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393141579,
       "title": "<p>New live stream page</p>\n",
       "category": "Meta",
-      "description": "<p>Can you guys test <a href=\"/stream\">this new page</a> and offer your thoughts on Reddit?</p>\n",
+      "description": "<p>Can you guys test <a href=\"/stream\">this new page</a> and <a href=\"http://www.reddit.com/message/compose/?to=Anonymish\">offer your thoughts</a> on Reddit?</p>\n",
       "updater": "SirCmpwn",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393141564,
+      "title": "<p>We are now facing the sea and are attempting to surf!</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
       "mode": "anarchy"
     },
     {
