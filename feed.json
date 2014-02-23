@@ -82,7 +82,9 @@
       "name": "Geodude",
       "nickname": "Geodude",
       "level": 17,
-      "moves": null
+      "moves": [
+        "Tackle"
+      ]
     },
     {
       "species": "Zubat",
