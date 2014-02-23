@@ -108,6 +108,14 @@
   ],
   "updates": [
     {
+      "time": 1393174877,
+      "title": "<p>We're informed that taking another Pokemon with us is not possible. Try anyway.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "_2Crazy4Nick",
+      "mode": "democracy"
+    },
+    {
       "time": 1393174313,
       "title": "<p><strong>Democracy mode!</strong></p>\n",
       "category": "Commentary",
