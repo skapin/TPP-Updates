@@ -48,7 +48,15 @@
       "count": 1
     }
   ],
-  "party": [],
+  "party": [
+    {
+      "species": "Gastly",
+      "name": "Gastly",
+      "nickname": "Rick Gastly",
+      "level": 22,
+      "moves": null
+    }
+  ],
   "updates": [
     {
       "time": 1393163728,
