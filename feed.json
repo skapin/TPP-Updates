@@ -66,7 +66,9 @@
       "name": "AATTVVV",
       "nickname": "All-Terrain Vehicle",
       "level": 33,
-      "moves": null
+      "moves": [
+        "Disable"
+      ]
     },
     {
       "species": "Drowzee",
