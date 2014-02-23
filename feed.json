@@ -54,16 +54,6 @@
   ],
   "party": [
     {
-      "species": "Venonat",
-      "name": "A",
-      "nickname": "A",
-      "level": 22,
-      "moves": [
-        "Tackle",
-        "Disable"
-      ]
-    },
-    {
       "species": "Zapdos",
       "name": "AA-j",
       "nickname": "Anarchy Jesus",
