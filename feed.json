@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393146743,
+      "title": "<p><strong>MASTER BALL THROWN.</strong></p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393146703,
       "title": "<p>We moved past the Master Ball in the list.</p>\n",
       "category": "Commentary",
