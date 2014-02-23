@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393141579,
+      "title": "<p>New live stream page</p>\n",
+      "category": "Meta",
+      "description": "<p>Can you guys test <a href=\"/stream\">this new page</a> and <a href=\"http://www.reddit.com/message/compose/?to=Anonymish\">offer your thoughts</a> on Reddit?</p>\n",
+      "updater": "SirCmpwn",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393141564,
       "title": "<p>We are now facing the sea and are attempting to surf!</p>\n",
       "category": "Travel",
