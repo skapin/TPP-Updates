@@ -67,7 +67,8 @@
       "nickname": "All-Terrain Vehicle",
       "level": 33,
       "moves": [
-        "Disable"
+        "Disable",
+        "Poison Powder"
       ]
     },
     {
