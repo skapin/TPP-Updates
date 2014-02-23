@@ -1,7 +1,7 @@
 {
   "version": 8,
   "balance": 6195,
-  "goal": "Surf to the Power Plant and capture Zapdos",
+  "goal": "Catch Zapdos while in the Power Factory!",
   "badges": [
     "boulder",
     "cascade",
@@ -61,7 +61,7 @@
       "species": "Farfetch'd",
       "name": "Dux",
       "nickname": "Slayer of Trees",
-      "level": 30,
+      "level": 31,
       "moves": [
         "Cut",
         "Sand Attack",
@@ -85,7 +85,7 @@
       "species": "Drowzee",
       "name": "Drowzee",
       "nickname": "The Keeper",
-      "level": 28,
+      "level": 29,
       "moves": [
         "Pound",
         "Headbutt",
@@ -97,14 +97,14 @@
       "species": "Lapras",
       "name": "AAAIIIIIRRR",
       "nickname": "Air Jordan",
-      "level": 19,
+      "level": 20,
       "moves": [
         "Water Gun",
-        "Growl",
         "",
         "",
         "Surf",
-        "Strength"
+        "Strength",
+        "Mist"
       ]
     },
     {
@@ -123,7 +123,7 @@
       "species": "Gloom",
       "name": "x(araggbaj",
       "nickname": "xCabbage",
-      "level": 25,
+      "level": 26,
       "moves": [
         "Cut",
         "Stun Spore",
@@ -133,6 +133,294 @@
     }
   ],
   "updates": [
+    {
+      "time": 1393145467,
+      "title": "<p>We're ~70% of the <a href=\"http://pokeworld.herokuapp.com/rb/83#21,3\">way there!</a></p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393145318,
+      "title": "",
+      "category": "Commentary",
+      "description": "<p>It has just been pointed out that whirlwind could be used on zapdos. Gotta hit that item menu ladies and gents.</p>\n",
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393145306,
+      "title": "<p>Whirlwind and Running are two fearful possibilities. Please be careful.</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393145267,
+      "title": "<p>Only a couple more mini chambers until we reach Zapdos. NO STOPPING THE RED TRAIN</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "PinkSombrero",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393145210,
+      "title": "<p>We have Dux, Bird Jesus, The Keeper, and ATV left. All full health but Bird Jesus has taken hits to 129/190.</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393145102,
+      "title": "<p>WE WERE SO CLOSE TO USING MASTER BALL on a wild Magnemite! We were one item above it, too scary holy--</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393145035,
+      "title": "<p>As we venture closer and closer to Zapdos, please note to refrain from using right! Running is a very scary possibility.</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393144935,
+      "title": "<p>We are <a href=\"http://pokeworld.herokuapp.com/rb/83#38,14\">here now!</a> I'm getting nervous...</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393144633,
+      "title": "<p>xCabbage has fainted to a voltorb-item self-destructing! AIR and xCabbage are now down!</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393144486,
+      "title": "<p>We are currently <a href=\"http://pokeworld.herokuapp.com/rb/83#23,28\">here</a>, ~40% in!</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393144225,
+      "title": "<p>OH GOD WE ARE FIGHTING VOLTORB AND MENU IS UP and we got really low in the menu--getting towards Master Ball.\":</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393144081,
+      "title": "<p>We are facing an Electabuzz! First one to be seen in the Power Plant.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393144051,
+      "title": "<p>We are currently 1/4th way through the Power Plant! <a href=\"http://pokeworld.herokuapp.com/rb/83#14,21\">We are here</a>.</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143913,
+      "title": "<p>Bird Jesus takes a quick attack from a pikachu. Answer? Rub some dirt in it with sand-attack and flee.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143902,
+      "title": "<p>Red's dodging these fights like nobody's business.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "PinkSombrero",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143840,
+      "title": "",
+      "category": "Commentary",
+      "description": "<p>Bird Jesus now leads us into the fray against the electric army. Its powerful wings will ensure our escape.</p>\n",
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143779,
+      "title": "<p>AIR has fainted to a wild Magneton!</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143735,
+      "title": "<p>Air flees from a spooky voltorb, only to be pulled back in by a Magneton.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143720,
+      "title": "<p>We've escaped.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143700,
+      "title": "<p>Oh no! Lapras is facing a voltorb and has 21 hp left. We couldn't escape.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143594,
+      "title": "<p>Dux has defeated a Voltorb.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143544,
+      "title": "<p>For AIR, Mist has replaced Growl!</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143508,
+      "title": "<p><strong>MIST HAS REPLACD GROWL FOR AIR</strong></p>\n",
+      "category": null,
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143462,
+      "title": "<p>Please note <a href=\"http://pokeworld.herokuapp.com/rb/83#4,35\">THIS MAP</a> and note how some \"items\" are actually voltorbs!</p>\n",
+      "category": "Strategy",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143450,
+      "title": "<p>xCabbage is Air Jordan's Pippen. Bouncing off each other to roll through the Power Factory.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143438,
+      "title": "<p>AIR has defeated a Pikachu!</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143329,
+      "title": "<p>We're facing a Pikachu now! Cute.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143302,
+      "title": "<p>xCabbage has defeated Magnemite!</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143273,
+      "title": "<p>[A] AIR Jordan is out first in a building full of Electric pokemon. This could be quite the electrifying experience for our dear cruise liner.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143228,
+      "title": "<p>We are now facing Magnemite!</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143187,
+      "title": "<p>We ran from Magneton.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143142,
+      "title": "<p>Into the Power Plant we go! We instantly encounter a wild Magneton.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "_8BitRemixGuy",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143136,
+      "title": "<p>We are facing our first pokemon in the Power Factory! Magneton.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143114,
+      "title": "<p>We have entered the Power Factory! Here is a <a href=\"http://pokeworld.herokuapp.com/rb/83#4,35\">map</a></p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143081,
+      "title": "<p>All this progress came a bit quickly for Red, so he had to take text speed down to medium.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
+      "time": 1393143031,
+      "title": "<p>We have landed onto the island for the <a href=\"http://pokeworld.herokuapp.com/rb/1#334,89\">Power Factory</a>!</p>\n",
+      "category": "Travel",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
     {
       "time": 1393142989,
       "title": "<p>Hearing the music for surf is so refreshing.</p>\n",
@@ -1591,5 +1879,5 @@
     }
   ],
   "currentMode": "anarchy",
-  "mapURL": "https://pokeworld.herokuapp.com/rb/1#239,126"
+  "mapURL": "https://pokeworld.herokuapp.com/rb/83#4,35"
 }
