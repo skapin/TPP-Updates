@@ -110,6 +110,14 @@
   ],
   "updates": [
     {
+      "time": 1393180768,
+      "title": "<p>Sorry about slowness, it's being worked on.</p>\n",
+      "category": "Meta",
+      "description": "<p>Just one guy here doing the technical stuff, and sometimes I have to sleep</p>\n",
+      "updater": "SirCmpwn",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393180628,
       "title": "<p>Bloody Sunday Killcount: 12</p>\n",
       "category": "Commentary",
