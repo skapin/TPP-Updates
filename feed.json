@@ -97,6 +97,14 @@
   ],
   "updates": [
     {
+      "time": 1393169286,
+      "title": "<p><strong>WE ARE NOW IN ANARCHY.</strong></p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393169165,
       "title": "<p>There's a delay! Vote for the NEXT input (or even the next one after that! Delay's pretty long yo!)</p>\n",
       "category": "Strategy",
