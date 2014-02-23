@@ -50,18 +50,6 @@
   ],
   "party": [
     {
-      "species": "Lapras",
-      "name": "AIIIIIIRRR",
-      "nickname": "Air Jordan",
-      "level": 20,
-      "moves": [
-        "Mist",
-        "Growl",
-        "Surf",
-        "Strength"
-      ]
-    },
-    {
       "species": "Drowzee",
       "name": "Drowzee",
       "nickname": "The Keeper",
