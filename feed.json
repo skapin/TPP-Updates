@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393147141,
+      "title": "<p>We are now facing PokeManiac, who is outside of the Power Factory!</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393147091,
       "title": "<p>We have left the Power Plant victorious, with AA-j in tow.</p>\n",
       "category": "Travel",
