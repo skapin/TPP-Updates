@@ -88,6 +88,14 @@
   ],
   "updates": [
     {
+      "time": 1393167525,
+      "title": "<p>We've just exited the PC by over-shooting input 'b'. Democracy, you're running out of time! Anarchy votes are coming in.</p>\n",
+      "category": "Commentary",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "democracy"
+    },
+    {
       "time": 1393167304,
       "title": "<p><strong>AAAAAAAAAA has been withdrawn!</strong> That's a Nidorino.</p>\n",
       "category": "Roster",
