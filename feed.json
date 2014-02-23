@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393141165,
+      "title": "<p>Facing another voltorb after running from Spearow.</p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393141146,
       "title": "<p>We just faced a voltrob before running, and now we are facing a Spearow. We are <a href=\"http://pokeworld.herokuapp.com/rb/1#333,50\">here in the grass!</a></p>\n",
       "category": "Battle",
