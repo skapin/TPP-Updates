@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393141433,
+      "title": "<p>New live stream page</p>\n",
+      "category": "Meta",
+      "description": "<p>Can you guys test <a href=\"/stream\">this new page</a> and offer your thoughts on Reddit?</p>\n",
+      "updater": "SirCmpwn",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393141322,
       "title": "<p>Bird Jesus has defeated a wild Spearow!</p>\n",
       "category": "Battle",
