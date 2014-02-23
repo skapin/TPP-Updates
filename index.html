@@ -48,7 +48,7 @@
                     </div>
                     <div class="sidebar" data-bind="foreach: filtered">
                         <div class="update" data-bind="attr: { 'data-category': category }">
-                            <h4 data-bind="html: title"></h4>
+                            <div class="title" data-bind="html: title"></div>
                             <p data-bind="visible: description, html: description"></p>
                             <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time), attr: { title: time }"></span> <span data-bind="visible: updater">&mdash;</span> <span data-bind="text: updater"></span></span></p>
                         </div>
