@@ -38,18 +38,6 @@
   ],
   "party": [
     {
-      "species": "Drowzee",
-      "name": "Drowzee",
-      "nickname": "The Keeper",
-      "level": 29,
-      "moves": [
-        "Pound",
-        "Headbutt",
-        "Disable",
-        "Confusion"
-      ]
-    },
-    {
       "species": "Gastly",
       "name": "Gastly",
       "nickname": "Rick Gastly",
