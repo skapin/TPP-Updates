@@ -78,7 +78,9 @@
       "name": "AEWWWWVV",
       "nickname": "AEWWWWVV",
       "level": 26,
-      "moves": null
+      "moves": [
+        "Horn Attack"
+      ]
     },
     {
       "species": "Nidorino",
