@@ -1,7 +1,7 @@
 {
   "version": 8,
   "balance": 3847,
-  "goal": "Rescue Deposited Pokemon",
+  "goal": "Rescue Deposited Pokemon & Items",
   "badges": [
     "boulder",
     "cascade",
@@ -75,6 +75,14 @@
     }
   ],
   "updates": [
+    {
+      "time": 1393151713,
+      "title": "<p>Withdrawn AAEEWWWW</p>\n",
+      "category": "Roster",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
     {
       "time": 1393151414,
       "title": "<p>Democracy is almost in action. ~78%</p>\n",
