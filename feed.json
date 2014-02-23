@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393148417,
+      "title": "<p><strong>We have been defeated!</strong> We are whisked to the Pokemon Center outside Rock Tunnel.</p>\n",
+      "category": "Travel",
+      "description": "<p>10d8h15m15s</p>\n",
+      "updater": "guilka",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393148214,
       "title": "<p>We are now back in the Power Plant! Suicide time!</p>\n",
       "category": "Travel",
