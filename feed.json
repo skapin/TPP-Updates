@@ -68,7 +68,9 @@
       "name": "AA-j",
       "nickname": "Anarchy Jesus",
       "level": 50,
-      "moves": null
+      "moves": [
+        "ThunderShock"
+      ]
     }
   ],
   "updates": [
