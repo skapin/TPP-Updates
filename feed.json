@@ -76,7 +76,8 @@
       "nickname": "Burger King",
       "level": 22,
       "moves": [
-        "Tackle"
+        "Tackle",
+        "Disable"
       ]
     },
     {
