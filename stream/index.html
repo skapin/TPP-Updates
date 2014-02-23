@@ -38,7 +38,10 @@
                 <hr />
                 <div class="sidebar" data-bind="foreach: recentUpdates">
                     <div class="update" data-bind="attr: { 'data-category': category }">
-                        <div class="title" data-bind="html: title"></div>
+                        <div class="title">
+                            <img data-bind="attr: { src: '/images/' + mode + '.png', title: 'This update was in ' + mode + ' mode.' }" class="pull-left" width=24 height=24 style="margin-right: 3px;" />
+                            <span data-bind="html: title"></span>
+                        </div>
                         <p data-bind="visible: description, html: description"></p>
                         <p><span class="label" data-bind="text: category, attr: { 'data-category': category }"></span><span> @ <span data-bind="text: $parent.timeConvert(time), attr: { title: time }"></span> <span data-bind="visible: updater">&mdash;</span> <span data-bind="text: updater"></span></span></p>
                     </div>
