@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393145773,
+      "title": "",
+      "category": "Meta",
+      "description": "<p>We are now showing the stream mode (democracy or anarchy) that each update was published in, as an icon next to each update.</p>\n",
+      "updater": "SirCmpwn",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393145745,
       "title": "<p>Commentary</p>\n",
       "category": null,
