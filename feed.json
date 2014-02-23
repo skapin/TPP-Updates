@@ -89,7 +89,9 @@
       "name": "Zubat",
       "nickname": "Zubat",
       "level": 16,
-      "moves": null
+      "moves": [
+        "Leech Life"
+      ]
     }
   ],
   "updates": [
