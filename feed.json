@@ -134,6 +134,14 @@
   ],
   "updates": [
     {
+      "time": 1393141146,
+      "title": "<p>We just faced a voltrob before running, and now we are facing a Spearow. We are <a href=\"http://pokeworld.herokuapp.com/rb/1#333,50\">here in the grass!</a></p>\n",
+      "category": "Battle",
+      "description": null,
+      "updater": "MrSymphony",
+      "mode": "anarchy"
+    },
+    {
       "time": 1393140863,
       "title": "<p>Remember, we must surf towards the Power Planet. There is no direct route, <a href=\"http://pokeworld.herokuapp.com/rb/1#335,48\">here's where to surf</a>.</p>\n",
       "category": "Strategy",
