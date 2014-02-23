@@ -110,7 +110,9 @@
       "name": "Zubat",
       "nickname": "Zubat",
       "level": 16,
-      "moves": null
+      "moves": [
+        "Supersonic"
+      ]
     }
   ],
   "updates": [
