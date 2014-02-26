@@ -126,4 +126,4 @@ function ViewModel() {
 };
 
 var viewModel = new ViewModel();
-ko.applyBindings(viewModel);
+ko.applyBindings(viewModel, document.getElementsByTagName("html")[0]);
