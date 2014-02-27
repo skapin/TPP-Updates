@@ -20,6 +20,13 @@ function ViewModel() {
     self.time = ko.observable("time");
     self.mapURL = ko.observable("https://pokeworld.herokuapp.com/rb/1");
 
+    self.normalTitle = document.title;
+    self.preTitle = ko.observable("");
+
+    self.title = ko.computed(function() {
+        return self.preTitle() + self.normalTitle;
+    }, self);
+
     self.icon = function(mode) {
         return '/images/anarchy.png';
     }
