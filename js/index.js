@@ -23,6 +23,8 @@ function ViewModel() {
     self.normalTitle = document.title;
     self.preTitle = ko.observable("");
 
+    self.favicon = ko.observable('/images/earthbadge.png');
+
     self.title = ko.computed(function() {
         return self.preTitle() + self.normalTitle;
     }, self);
