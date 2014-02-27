@@ -20,6 +20,15 @@ function ViewModel() {
     self.time = ko.observable("time");
     self.mapURL = ko.observable("https://pokeworld.herokuapp.com/rb/1");
 
+    self.normalTitle = document.title;
+    self.preTitle = ko.observable("");
+
+    self.favicon = ko.observable('/images/earthbadge.png');
+
+    self.title = ko.computed(function() {
+        return self.preTitle() + self.normalTitle;
+    }, self);
+
     self.icon = function(mode) {
         return '/images/anarchy.png';
     }
@@ -126,4 +135,4 @@ function ViewModel() {
 };
 
 var viewModel = new ViewModel();
-ko.applyBindings(viewModel);
+ko.applyBindings(viewModel, document.getElementsByTagName("html")[0]);
