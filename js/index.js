@@ -2,6 +2,20 @@ var tpp_start_time = 1392254507;
 var update_interval = 5000;
 var api_version = 9;
 
+// https://gist.github.com/mathiasbynens/428626
+document.head || (document.head = document.getElementsByTagName('head')[0]);
+function changeFavicon(src) {
+    var link = document.createElement('link'),
+    oldLink = document.getElementById('dynamic-favicon');
+    link.id = 'dynamic-favicon';
+    link.rel = 'shortcut icon';
+    link.href = src;
+    if (oldLink) {
+        document.head.removeChild(oldLink);
+    }
+    document.head.appendChild(link);
+}
+
 function ViewModel() {
     var self = this;
 
